@@ -1,0 +1,233 @@
+步骤
+
+分词、去停用词
+
+词袋模型向量化文本
+
+TF-IDF模型向量化文本
+
+LSI模型向量化文本
+
+计算相似度
+
+理论知识
+
+两篇中文文本，如何计算相似度？相似度是数学上的概念，自然语言肯定无法完成，所有要把文本转化为向量。两个向量计算相似度就很简单了，欧式距离、余弦相似度等等各种方法，只需要中学水平的数学知识。
+
+那么如何将文本表示成向量呢？
+
+词袋模型
+
+最简单的表示方法是词袋模型。把一篇文本想象成一个个词构成的，所有词放入一个袋子里，没有先后顺序、没有语义。
+
+例如：
+
+John likes to watch movies. Mary likes too.
+
+John also likes to watch football games.
+
+这两个句子，可以构建出一个词典，key为上文出现过的词，value为这个词的索引序号
+
+{"John": 1, "likes": 2,"to": 3, "watch": 4, "movies": 5,"also": 6, "football": 7, "games": 8,"Mary": 9, "too": 10}
+
+那么，上面两个句子用词袋模型表示成向量就是：
+
+[1, 2, 1, 1, 1, 0, 0, 0, 1, 1]
+
+[1, 1,1, 1, 0, 1, 1, 1, 0, 0]
+
+相对于英文，中文更复杂一些，涉及到分词。准确地分词是所有中文文本分析的基础，本文使用结巴分词，完全开源而且分词准确率相对有保障。
+
+TF-IDF模型
+
+词袋模型简单易懂，但是存在问题。中文文本里最常见的词是“的”、“是”、“有”这样的没有实际含义的词。一篇关于足球的中文文本，“的”出现的数量肯定多于“足球”。所以，要对文本中出现的词赋予权重。
+
+一个词的权重由TF * IDF 表示，其中TF表示词频，即一个词在这篇文本中出现的频率；IDF表示逆文档频率，即一个词在所有文本中出现的频率倒数。因此，一个词在某文本中出现的越多，在其他文本中出现的越少，则这个词能很好地反映这篇文本的内容，权重就越大。
+
+回过头看词袋模型，只考虑了文本的词频，而TF-IDF模型则包含了词的权重，更加准确。文本向量与词袋模型中的维数相同，只是每个词的对应分量值换成了该词的TF-IDF值。
+
+
+
+TF
+
+IDF
+
+LSI模型
+
+TF-IDF模型足够胜任普通的文本分析任务，用TF-IDF模型计算文本相似度已经比较靠谱了，但是细究的话还存在不足之处。实际的中文文本，用TF-IDF表示的向量维数可能是几百、几千，不易分析计算。此外，一些文本的主题或者说中心思想，并不能很好地通过文本中的词来表示，能真正概括这篇文本内容的词可能没有直接出现在文本中。
+
+因此，这里引入了Latent Semantic Indexing（LSI）从文本潜在的主题来进行分析。LSI是概率主题模型的一种，另一种常见的是LDA，核心思想是：每篇文本中有多个概率分布不同的主题；每个主题中都包含所有已知词，但是这些词在不同主题中的概率分布不同。LSI通过奇异值分解的方法计算出文本中各个主题的概率分布，严格的数学证明需要看相关论文。假设有5个主题，那么通过LSI模型，文本向量就可以降到5维，每个分量表示对应主题的权重。
+
+python实现
+
+分词上使用了结巴分词https://github.com/fxsjy/jieba，词袋模型、TF-IDF模型、LSI模型的实现使用了gensim库 https://github.com/RaRe-Technologies/gensim
+
+import jieba.posseg as pseg
+
+import codecs
+
+from gensim import corpora, models, similarities
+
+构建停用词表
+
+stop_words = '/Users/yiiyuanliu/Desktop/nlp/demo/stop_words.txt'
+
+stopwords = codecs.open(stop_words,'r',encoding='utf8').readlines()
+
+stopwords = [ w.strip() for w in stopwords ]
+
+结巴分词后的停用词性 [标点符号、连词、助词、副词、介词、时语素、‘的’、数词、方位词、代词]
+
+stop_flag = ['x', 'c', 'u','d', 'p', 't', 'uj', 'm', 'f', 'r']
+
+对一篇文章分词、去停用词
+
+def tokenization(filename):
+
+result = []
+
+with open(filename, 'r') as f:
+
+text = f.read()
+
+words = pseg.cut(text)
+
+for word, flag in words:
+
+if flag not in stop_flag and word not in stopwords:
+
+result.append(word)
+
+return result
+
+选取三篇文章，前两篇是高血压主题的，第三篇是iOS主题的。
+
+filenames = ['/Users/yiiyuanliu/Desktop/nlp/demo/articles/13 件小事帮您稳血压.txt',
+
+'/Users/yiiyuanliu/Desktop/nlp/demo/articles/高血压患者宜喝低脂奶.txt',
+
+'/Users/yiiyuanliu/Desktop/nlp/demo/articles/ios.txt' ]
+
+corpus = []
+
+for each in filenames:
+
+corpus.append(tokenization(each))
+
+print len(corpus)
+
+Building prefix dict from the default dictionary ...
+
+Loading model from cache /var/folders/1q/5404x10d3k76q2wqys68pzkh0000gn/T/jieba.cache
+
+Loading model cost 0.349 seconds.
+
+Prefix dict has been built succesfully.
+
+建立词袋模型
+
+dictionary = corpora.Dictionary(corpus)
+
+print dictionary
+
+Dictionary(431 unique tokens: [u'u627eu51fa', u'u804cu4f4d', u'u6253u9f3e', u'u4ebau7fa4', u'u996eu54c1']...)
+
+doc_vectors = [dictionary.doc2bow(text) for text in corpus]
+
+print len(doc_vectors)
+
+print doc_vectors
+
+3
+
+[[(0, 1), (1, 3), (2, 2), (3, 1), (4, 3), (5, 3), (6, 3), (7, 1), (8, 1), (9, 1), (10, 1), (11, 3), (12, 1), (13, 2), (14, 3), (15, 3), (16, 1), (17, 2), (18, 1), (19, 1), (20, 1), (21, 2), (22, 1), (23, 1), (24, 1), (25, 1), (26, 1), (27, 3), (28, 1), (29, 1), (30, 1), (31, 1), (32, 1), (33, 1), (34, 1), (35, 1), (36, 1), (37, 1), (38, 1), (39, 1), (40, 2), (41, 1), (42, 2), (43, 1), (44, 2), (45, 1), (46, 4), (47, 1), (48, 2), (49, 1), (50, 2), (51, 1), (52, 1), (53, 1), (54, 1), (55, 1), (56, 1), (57, 1), (58, 1), (59, 1), (60, 1), (61, 1), (62, 1), (63, 1), (64, 1), (65, 3), (66, 1), (67, 1), (68, 1), (69, 2), (70, 2), (71, 5), (72, 1), (73, 2), (74, 3), (75, 1), (76, 1), (77, 1), (78, 2), (79, 1), (80, 1), (81, 1), (82, 1), (83, 2), (84, 3), (85, 1), (86, 2), (87, 1), (88, 3), (89, 1), (90, 1), (91, 1), (92, 2), (93, 1), (94, 1), (95, 2), (96, 2), (97, 1), (98, 3), (99, 1), (100, 1), (101, 1), (102, 2), (103, 1), (104, 1), (105, 1), (106, 1), (107, 1), (108, 2), (109, 1), ]]
+
+建立TF-IDF模型
+
+tfidf = models.TfidfModel(doc_vectors)
+
+tfidf_vectors = tfidf[doc_vectors]
+
+print len(tfidf_vectors)
+
+print len(tfidf_vectors[0])
+
+3
+
+258
+
+构建一个query文本，是高血压主题的，利用词袋模型的字典将其映射到向量空间
+
+query = tokenization('/Users/yiiyuanliu/Desktop/nlp/demo/articles/关于降压药的五个问题.txt')
+
+query_bow = dictionary.doc2bow(query)
+
+print len(query_bow)
+
+print query_bow
+
+35
+
+[(6, 1), (11, 1), (14, 1), (19, 1), (25, 1), (28, 1), (38, 2), (44, 3), (50, 4), (67, 1), (71, 1), (97, 1), (101, 3), (105, 2), (137, 1), (138, 4), (148, 6), (151, 2), (155, 1), (158, 3), (162, 4), (169, 1), (173, 2), (203, 1), (232, 12), (236, 1), (244, 9), (257, 1), (266, 1), (275, 2), (282, 1), (290, 2), (344, 1), (402, 1), (404, 3)]
+
+index = similarities.MatrixSimilarity(tfidf_vectors)
+
+用TF-IDF模型计算相似度，相对于前两篇高血压主题的文本，iOS主题文本与query的相似度很低。可见TF-IDF模型是有效的，然而在语料较少的情况下，与同是高血压主题的文本相似度也不高。
+
+sims = index[query_bow]
+
+print list(enumerate(sims))
+
+[(0, 0.28532028), (1, 0.28572506), (2, 0.023022989)]
+
+构建LSI模型，设置主题数为2（理论上这两个主题应该分别为高血压和iOS）
+
+lsi = models.LsiModel(tfidf_vectors, id2word=dictionary, num_topics=2)
+
+lsi.print_topics(2)
+
+[(0,
+
+u'0.286*"u9ad8u8840u538b" + 0.241*"u8840u538b" + 0.204*"u60a3u8005" + 0.198*"u559d" + 0.198*"u4f4e" + 0.198*"u8865u9499" + 0.155*"u538bu529b" + 0.155*"u852cu83dc" + 0.132*"u542bu9499" + 0.132*"u8840u9499"'),
+
+(1,
+
+u'0.451*"iOS" + 0.451*"u5f00u53d1" + 0.322*"u610fu4e49" + 0.193*"u57f9u8bad" + 0.193*"u9762u8bd5" + 0.193*"u884cu4e1a" + 0.161*"u7b97u6cd5" + 0.129*"u9ad8u8003" + 0.129*"u5e02u573a" + 0.129*"u57fau7840"')]
+
+lsi_vector = lsi[tfidf_vectors]
+
+for vec in lsi_vector:
+
+print vec
+
+[(0, 0.74917098831536277), (1, -0.0070559356931168236)]
+
+[(0, 0.74809557226254608), (1, -0.054041302062161914)]
+
+[(0, 0.045784366765220297), (1, 0.99846660199817183)]
+
+在LSI向量空间中，所有文本的向量都是二维的
+
+query = tokenization('/Users/yiiyuanliu/Desktop/nlp/demo/articles/关于降压药的五个问题.txt')
+
+query_bow = dictionary.doc2bow(query)
+
+print query_bow
+
+[(6, 1), (11, 1), (14, 1), (19, 1), (25, 1), (28, 1), (38, 2), (44, 3), (50, 4), (67, 1), (71, 1), (97, 1), (101, 3), (105, 2), (137, 1), (138, 4), (148, 6), (151, 2), (155, 1), (158, 3), (162, 4), (169, 1), (173, 2), (203, 1), (232, 12), (236, 1), (244, 9), (257, 1), (266, 1), (275, 2), (282, 1), (290, 2), (344, 1), (402, 1), (404, 3)]
+
+query_lsi = lsi[query_bow]
+
+print query_lsi
+
+[(0, 7.5170080232286249), (1, 0.10900815862153138)]
+
+index = similarities.MatrixSimilarity(lsi_vector)
+
+sims = index[query_lsi]
+
+print list(enumerate(sims))
+
+[(0, 0.99971396), (1, 0.99625134), (2, 0.060286518)]
+
+可以看到LSI的效果很好，一个高血压主题的文本与前两个训练文本的相似性很高，而与iOS主题的第三篇训练文本相似度很低

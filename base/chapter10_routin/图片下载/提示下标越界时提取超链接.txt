@@ -1,0 +1,23 @@
+ Sub getchaolianjie()
+
+On Error Resume Next
+
+For Each cell In Range("A1:A1221")
+
+       a = Len(cell.Formula)
+
+       For b = 12 To a
+
+       If Mid(cell.Formula, b, 1) = "," Then
+
+        cell.Offset(0, 1) = Mid(cell.Formula, 13, b - 14)
+
+        Exit For
+
+        End If
+
+        Next b
+
+        Next
+
+End Sub
