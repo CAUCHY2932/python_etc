@@ -1,0 +1,46 @@
+http://file.allitebooks.com/20170302/Essentials of Computer Architecture, 2nd Edition.pdf
+http://file.allitebooks.com/20160909/Learning Computer Architecture with Raspberry Pi.pdf
+http://file.allitebooks.com/20160709/Raspberry Pi Computer Architecture Essentials.pdf
+http://file.allitebooks.com/20151025/Computer Architecture.pdf
+http://file.allitebooks.com/20150725/Computer Organization and Architecture, 9th Edition.pdf
+http://file.allitebooks.com/20190429/Learn Computer Vision Using OpenCV.pdf
+http://file.allitebooks.com/20190429/Learn Computer Vision Using OpenCV.epub
+http://file.allitebooks.com/20171106/Arduino Computer Vision Programming.pdf
+http://file.allitebooks.com/20161202/Computer Forensics with FTK.pdf
+http://file.allitebooks.com/20160718/Computer Organization and Design, Fifth Edition.pdf
+http://file.allitebooks.com/20151208/Intel Xeon Phi Coprocessor Architecture and Tools.pdf
+http://file.allitebooks.com/20150728/Introduction to Computer Networks and Cybersecurity.pdf
+http://file.allitebooks.com/20150625/Intel Xeon Phi Coprocessor Architecture and Tools.pdf
+http://file.allitebooks.com/20170624/Interpreting LISP, 2nd Edition.pdf
+http://file.allitebooks.com/20160611/Mastering SciPy.pdf
+http://file.allitebooks.com/20151207/High Performance Python.pdf
+http://file.allitebooks.com/20151203/Assembly Language for x86 Processors, 7th Edition.pdf
+http://file.allitebooks.com/20150915/ARM Assembly Language with Hardware Experiments.pdf
+http://file.allitebooks.com/20150724/Explorations in Computing- An Introduction to Computer Science.pdf
+http://file.allitebooks.com/20190523/AWS Lambda in Action.epub
+http://file.allitebooks.com/20171211/Learn Microservices with Spring Boot.pdf
+http://file.allitebooks.com/20170928/Learning TensorFlow.pdf
+http://file.allitebooks.com/20170629/Low-Level Programming.pdf
+http://file.allitebooks.com/20170314/ARM Cortex M4 Cookbook.pdf
+http://file.allitebooks.com/20170122/Making Sense of Sensors.pdf
+http://file.allitebooks.com/20160817/Large Scale Machine Learning with Python.rar
+http://file.allitebooks.com/20160323/Implementation and Application of Automata.pdf
+http://file.allitebooks.com/20160207/The Accidental SysAdmin Handbook, Second Edition.pdf
+http://file.allitebooks.com/20151123/Crafting the InfoSec Playbook.pdf
+http://file.allitebooks.com/20151122/Hadoop Security.pdf
+http://file.allitebooks.com/20151116/Professional haXe and Neko.pdf
+http://file.allitebooks.com/20151105/Processing- A Programming Handbook for Visual Designers and Artists, 2 edition.pdf
+http://file.allitebooks.com/20151012/Bayesian Programming.pdf
+http://file.allitebooks.com/20151010/Natural Computing Algorithms.pdf
+http://file.allitebooks.com/20150821/Model-Based Development- Applications.pdf
+http://file.allitebooks.com/20150703/Network Attacks and Defenses- A Hands-on Approach.pdf
+http://file.allitebooks.com/20150625/Practical Maya Programming with Python.pdf
+http://file.allitebooks.com/20150617/Rails Solutions Ruby on Rails Made Easy.pdf
+http://file.allitebooks.com/20150523/UMTS Networks and Beyond.pdf
+http://file.allitebooks.com/20150523/Convergence Technologies for 3G Networks.pdf
+http://file.allitebooks.com/20150523/GPRS Networks.pdf
+http://file.allitebooks.com/20150521/Building Virtual Pentesting Labs for Advanced Penetration Testing.pdf
+http://file.allitebooks.com/20150519/Linux Thin Client Networks Design and Deployment.pdf
+http://file.allitebooks.com/20150519/SSH, The Secure Shell.pdf
+http://file.allitebooks.com/20150510/Professional Multicore Programming.pdf
+http://file.allitebooks.com/20150509/Advanced Network Programming - Principles and Techniques.pdf

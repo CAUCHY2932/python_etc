@@ -1,0 +1,30 @@
+http://file.allitebooks.com/20180201/Exam Ref 70-767 Implementing a SQL Data Warehouse.pdf
+http://file.allitebooks.com/20170519/Building a Data Warehouse.pdf
+http://file.allitebooks.com/20151213/Building and Maintaining a Data Warehouse.pdf
+http://file.allitebooks.com/20150615/The Data Warehouse Toolkit, 3rd Edition.pdf
+http://file.allitebooks.com/20150612/Implementing a Data Warehouse with Microsoft SQL Server 2012.pdf
+http://file.allitebooks.com/20181219/Understanding Azure Data Factory.pdf
+http://file.allitebooks.com/20181219/Understanding Azure Data Factory.epub
+http://file.allitebooks.com/20181126/Oracle Warehouse Builder 11g R2.pdf
+http://file.allitebooks.com/20170408/Usage-Driven Database Design.pdf
+http://file.allitebooks.com/20160721/Oracle Database 11g DBA Handbook.pdf
+http://file.allitebooks.com/20160505/Big Data Fundamentals.pdf
+http://file.allitebooks.com/20151217/Data Warehousing and Knowledge Discovery.pdf
+http://file.allitebooks.com/20151214/Oracle SQL Developer Data Modeler for Database Design Mastery.pdf
+http://file.allitebooks.com/20151128/Data Warehousing For Dummies.pdf
+http://file.allitebooks.com/20151019/Pentaho Data Integration Beginner's Guide, Second Edition.pdf
+http://file.allitebooks.com/20151013/Big Data and The Internet of Things.pdf
+http://file.allitebooks.com/20150625/Databases A Beginner-s Guide.pdf
+http://file.allitebooks.com/20150615/A Manager-s Guide to Data Warehousing.pdf
+http://file.allitebooks.com/20181018/Mastering Azure Analytics.pdf
+http://file.allitebooks.com/20161204/Pro SQL Server Internals, 2nd edition.pdf
+http://file.allitebooks.com/20160829/Practical Hive.pdf
+http://file.allitebooks.com/20160818/Monitoring ElasticSearch.pdf
+http://file.allitebooks.com/20160815/Practical Hadoop Migration.pdf
+http://file.allitebooks.com/20160505/MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook.pdf
+http://file.allitebooks.com/20160219/Microsoft SQL Server 2012 Integration Services An Expert Cookbook.pdf
+http://file.allitebooks.com/20150728/Expert Cube Development with SSAS Multidimensional Models.pdf
+http://file.allitebooks.com/20150615/Getting Started with Amazon Redshift.pdf
+http://file.allitebooks.com/20150615/Programming Hive.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2014 Business Intelligence Development.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2012 Administration.pdf

@@ -1,0 +1,7 @@
+确保宏可以启用。在此Excel中同时按Alt和F11，进入宏界面，点菜单的插入，模块，粘贴如下代码：
+Sub test()
+For Each cell In Range("A2:A48")
+cell.Offset(0, 1) = cell.Hyperlinks(1).Address
+Next
+End Sub
+把A2:A48改为你实际有超链接的单元格区域，直接按F5运行此宏，在对应的右边一格出现超链接地址。 

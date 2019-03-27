@@ -1,0 +1,55 @@
+http://file.allitebooks.com/20190626/Practical Microservices Architectural Patterns.pdf
+http://file.allitebooks.com/20190626/Practical Microservices Architectural Patterns.epub
+http://file.allitebooks.com/20190620/Rapid Java Persistence and Microservices.pdf
+http://file.allitebooks.com/20190620/Rapid Java Persistence and Microservices.epub
+http://file.allitebooks.com/20190514/Testing Microservices with Mountebank.epub
+http://file.allitebooks.com/20181118/Microservices in .NET Core.pdf
+http://file.allitebooks.com/20181117/Microservices for the Enterprise.pdf
+http://file.allitebooks.com/20181117/Microservices for the Enterprise.epub
+http://file.allitebooks.com/20181108/Microservice Patterns.pdf
+http://file.allitebooks.com/20181024/Microservices in Action.pdf
+http://file.allitebooks.com/20180727/PHP Microservices.pdf
+http://file.allitebooks.com/20171211/Learn Microservices with Spring Boot.pdf
+http://file.allitebooks.com/20170911/Building Microservices with ASP.NET Core.pdf
+http://file.allitebooks.com/20170613/Advanced Microservices.pdf
+http://file.allitebooks.com/20170610/Spring Microservices.pdf
+http://file.allitebooks.com/20170122/Production-Ready Microservices.pdf
+http://file.allitebooks.com/20161210/Microservices From Day One.pdf
+http://file.allitebooks.com/20160804/Microservice Architecture.pdf
+http://file.allitebooks.com/20160506/Developing Microservices with Node.js.pdf
+http://file.allitebooks.com/20160423/Kubernetes Microservices with Docker.pdf
+http://file.allitebooks.com/20151201/Microservices, IoT and Azure.pdf
+http://file.allitebooks.com/20190523/AWS Lambda in Action.epub
+http://file.allitebooks.com/20190205/Blazor Revealed.pdf
+http://file.allitebooks.com/20190205/Blazor Revealed.epub
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.pdf
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.epub
+http://file.allitebooks.com/20181120/The Full Stack Developer.pdf
+http://file.allitebooks.com/20181120/The Full Stack Developer.epub
+http://file.allitebooks.com/20180804/Scalability Patterns.pdf
+http://file.allitebooks.com/20180804/Scalability Patterns.epub
+http://file.allitebooks.com/20180722/REST API Development with Node.js, 2nd Edition.pdf
+http://file.allitebooks.com/20180613/Java EE 8 Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20180608/Practical NATS.pdf
+http://file.allitebooks.com/20180530/Beginning EJB in Java EE 8, 3rd Edition.pdf
+http://file.allitebooks.com/20171201/Practical Scala DSLs.pdf
+http://file.allitebooks.com/20171029/Kafka The Definitive Guide.pdf
+http://file.allitebooks.com/20171014/Pro Spring 5, 5th Edition.pdf
+http://file.allitebooks.com/20171014/Spring 5 Recipes, 4th Edition.pdf
+http://file.allitebooks.com/20171002/Beginning Spring Boot 2.pdf
+http://file.allitebooks.com/20170811/Pro Java Clustering and Scalability.pdf
+http://file.allitebooks.com/20170529/CoreOS in Action.pdf
+http://file.allitebooks.com/20170508/Spring Boot Messaging.pdf
+http://file.allitebooks.com/20170322/Pro RESTful APIs.pdf
+http://file.allitebooks.com/20170311/Architecting for Scale.pdf
+http://file.allitebooks.com/20170214/Kubernetes Management Design Patterns.pdf
+http://file.allitebooks.com/20170119/C- Programming Cookbook.pdf
+http://file.allitebooks.com/20170110/Cloud Native Go.pdf
+http://file.allitebooks.com/20161224/Pivotal Certified Professional Spring Developer Exam.pdf
+http://file.allitebooks.com/20161104/Lumen Programming Guide.pdf
+http://file.allitebooks.com/20161021/Go Web Programming.pdf
+http://file.allitebooks.com/20160905/Go in Practice.pdf
+http://file.allitebooks.com/20160818/Modern JavaScript Applications.pdf
+http://file.allitebooks.com/20160526/Pro Spring Boot.pdf
+http://file.allitebooks.com/20160320/Spring MVC Cookbook.pdf
+http://file.allitebooks.com/20151112/Security for Web Developers.pdf

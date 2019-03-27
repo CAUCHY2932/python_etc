@@ -1,0 +1,73 @@
+<body >
+<div data-role="page" >
+<div data-role="header"
+style="border: 0; background: #FBCDCA; text-align: center; height: 55px;">
+<div style="padding-top: 3px;">
+<p>
+<b>调查问卷</b>
+</p>
+</div>
+
+</div>
+<div data-role="main" id="main">
+<div id="outer">
+<form onsubmit="return check()" action="saveQuestionnairersponse" method="post"  >
+<div class="type">
+<div class="question">
+请选择你要调查的问题类型：
+</div>
+<div class="answer">
+<c:forEach var="type" items="${typelist}" varStatus="status">
+<input type="radio" onclick="showChild(this,${status.index})" />${type.qtName}<br />
+</c:forEach>
+</div>
+</div>
+<c:forEach var="type" items="${typelist}" varStatus="status">
+<div id="type${status.index}" style="display: none;">
+<c:forEach var="question" items="${questionList}" varStatus="q">
+<c:if test="${question.qtId == type.qtId}">
+<div class="question">
+${question.questionContent}
+</div>
+<div class="answer" id="answer${q.index}">
+<c:forEach var="option" items="${optionList}" varStatus="s">
+<c:if test="${option.tquestioninfo.questionId == question.questionId}">
+<input type="radio" id="op${s.index}" name="questionnairersponse[${q.index}].tquestionoptionsinfo.optionId" value="${option.optionId}" class="option" onchange="change(${q.index})"/>${option.optionContent}<br />
+<div >
+<c:if test="${option.isWrite==1}" >
+<div id="table${s.index}" style="display: none">
+<table
+style="border-bottom: 1px solid green; width: 80%"
+cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<input type="text" style="border: 0; background: #FEFCC8; width: 100%;"
+name="questionnairersponse[${q.index}].writeContent" id="write${s.index}"/>
+</td>
+</tr>
+</table>
+</div>
+</c:if>
+</div>
+</c:if>
+</c:forEach>
+</div>
+</c:if>
+</c:forEach>
+
+</div>
+</c:forEach> 
+
+<div style="margin-top: 20px;">
+<input type="submit" value="提交问卷" style="background-color: #FBCDCA;border:0" />
+</div>
+
+</form>
+
+
+</div>
+</div>
+
+
+</div>
+</body>

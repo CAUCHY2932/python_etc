@@ -1,0 +1,372 @@
+http://file.allitebooks.com/20190124/JavaScript Data Structures and Algorithms.pdf
+http://file.allitebooks.com/20190124/JavaScript Data Structures and Algorithms.epub
+http://file.allitebooks.com/20180704/Pro Machine Learning Algorithms.pdf
+http://file.allitebooks.com/20170927/Algorithms For Dummies.pdf
+http://file.allitebooks.com/20160706/Algorithms of the Intelligent Web, 2nd Edition.pdf
+http://file.allitebooks.com/20160623/Algorithm Design.pdf
+http://file.allitebooks.com/20160524/Algorithms- Design and Analysis.pdf
+http://file.allitebooks.com/20160426/Clojure Data Structures and Algorithms Cookbook.pdf
+http://file.allitebooks.com/20160401/Algorithms in a Nutshell, 2nd Edition.pdf
+http://file.allitebooks.com/20160323/Teaching Learning Based Optimization Algorithm.pdf
+http://file.allitebooks.com/20160309/Data Structures and Algorithms with Python.pdf
+http://file.allitebooks.com/20151215/Genetic Algorithms in Java Basics.pdf
+http://file.allitebooks.com/20151211/Automatic Algorithm Selection for Complex Simulation Problems.pdf
+http://file.allitebooks.com/20151209/Data Structures and Algorithms Using Python.pdf
+http://file.allitebooks.com/20151209/Algorithms and Parallel Computing.pdf
+http://file.allitebooks.com/20151209/Data Structures and Algorithms in C++, 2nd edition.pdf
+http://file.allitebooks.com/20151204/Foundations of Statistical Algorithms.pdf
+http://file.allitebooks.com/20151202/Design and Analysis of Approximation Algorithms.pdf
+http://file.allitebooks.com/20151201/Fireworks Algorithm.pdf
+http://file.allitebooks.com/20151201/Distributed and Sequential Algorithms for Bioinformatics.pdf
+http://file.allitebooks.com/20151122/Algorithmics of Matching Under Preferences.pdf
+http://file.allitebooks.com/20151117/Algorithms Unlocked.pdf
+http://file.allitebooks.com/20151107/High-Level Synthesis- from Algorithm to Digital Circuit.pdf
+http://file.allitebooks.com/20151105/Algorithms and Ordering Heuristics for Distributed Constraint Satisfaction Problems.pdf
+http://file.allitebooks.com/20151101/Algorithms for Sensor Systems.pdf
+http://file.allitebooks.com/20151031/Evolutionary Optimization Algorithms.pdf
+http://file.allitebooks.com/20151029/Data Structures & Algorithm Analysis in C++, 4th Edition.pdf
+http://file.allitebooks.com/20151028/The Design of Approximation Algorithms.pdf
+http://file.allitebooks.com/20151010/Natural Computing Algorithms.pdf
+http://file.allitebooks.com/20150928/The Master Algorithm.pdf
+http://file.allitebooks.com/20150928/Algorithms in a Nutshell.pdf
+http://file.allitebooks.com/20150922/Parameterized Algorithms.pdf
+http://file.allitebooks.com/20150830/Data Structures and Algorithm Analysis in Java, 3rd Edition.pdf
+http://file.allitebooks.com/20150829/Mastering Algorithms with C.pdf
+http://file.allitebooks.com/20150829/Essential Algorithms.pdf
+http://file.allitebooks.com/20150811/Learning Fsharp Functional Data Structures and Algorithms.pdf
+http://file.allitebooks.com/20150721/Sublinear Algorithms for Big Data Applications.pdf
+http://file.allitebooks.com/20150720/Practical Algorithms for 3D Computer Graphics, Second Edition.pdf
+http://file.allitebooks.com/20150714/Data Mining- Theories, Algorithms, and Examples.pdf
+http://file.allitebooks.com/20150707/Variants of Evolutionary Algorithms for Real-World Applications.pdf
+http://file.allitebooks.com/20150615/Data Mining Algorithms.pdf
+http://file.allitebooks.com/20150615/Algorithms from and for Nature and Life.pdf
+http://file.allitebooks.com/20150602/Bandit Algorithms for Website Optimization.pdf
+http://file.allitebooks.com/20150525/Mastering Algorithms with Perl.pdf
+http://file.allitebooks.com/20150523/Distributed Graph Algorithms for Computer Networks.pdf
+http://file.allitebooks.com/20150514/Python Algorithms, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Data Structures and Algorithms in Python.pdf
+http://file.allitebooks.com/20150514/Python Algorithms.pdf
+http://file.allitebooks.com/20150513/Data Structures and Algorithms with JavaScript.pdf
+http://file.allitebooks.com/20150509/Data Structures and Algorithms in Java, 6th Edition.pdf
+http://file.allitebooks.com/20190613/Machine Learning with Microsoft Technologies.pdf
+http://file.allitebooks.com/20190613/Machine Learning with Microsoft Technologies.epub
+http://file.allitebooks.com/20190608/Drools JBoss Rules 5.0 Developers Guide.pdf
+http://file.allitebooks.com/20190528/Big Data Analytics.pdf
+http://file.allitebooks.com/20190516/Deep Learning For Dummies.pdf
+http://file.allitebooks.com/20190516/Deep Learning For Dummies.epub
+http://file.allitebooks.com/20190401/Apache Solr Search Patterns.pdf
+http://file.allitebooks.com/20190330/Network Warrior.pdf
+http://file.allitebooks.com/20190312/Classic Computer Science Problems in Python.pdf
+http://file.allitebooks.com/20190308/Learning Bitcoin.pdf
+http://file.allitebooks.com/20190308/Learning Bitcoin.epub
+http://file.allitebooks.com/20190227/Practical Machine Learning and Image Processing.pdf
+http://file.allitebooks.com/20190227/Practical Machine Learning and Image Processing.epub
+http://file.allitebooks.com/20190219/Learn to Program with Scratch.pdf
+http://file.allitebooks.com/20190214/Apache Solr High Performance.pdf
+http://file.allitebooks.com/20190206/Functional Programming For Dummies.pdf
+http://file.allitebooks.com/20190206/Functional Programming For Dummies.epub
+http://file.allitebooks.com/20190130/Natural Language Processing Recipes.pdf
+http://file.allitebooks.com/20190130/Natural Language Processing Recipes.epub
+http://file.allitebooks.com/20190128/Fonts - Encodings.pdf
+http://file.allitebooks.com/20190128/PyTorch Recipes.pdf
+http://file.allitebooks.com/20190128/PyTorch Recipes.epub
+http://file.allitebooks.com/20181215/Machine Learning with PySpark.pdf
+http://file.allitebooks.com/20181215/Machine Learning with PySpark.epub
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.pdf
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.epub
+http://file.allitebooks.com/20181118/Block Trace Analysis and Storage System Optimization.pdf
+http://file.allitebooks.com/20181118/Block Trace Analysis and Storage System Optimization.epub
+http://file.allitebooks.com/20181027/Testing and Tuning Market Trading Systems.pdf
+http://file.allitebooks.com/20181027/Testing and Tuning Market Trading Systems.epub
+http://file.allitebooks.com/20181012/Practical TLA.pdf
+http://file.allitebooks.com/20181012/Practical TLA.epub
+http://file.allitebooks.com/20180912/Applied Natural Language Processing with Python.pdf
+http://file.allitebooks.com/20180912/Applied Natural Language Processing with Python.epub
+http://file.allitebooks.com/20180908/Applied Deep Learning.pdf
+http://file.allitebooks.com/20180908/Applied Deep Learning.epub
+http://file.allitebooks.com/20180827/Deep Learning with Azure.pdf
+http://file.allitebooks.com/20180827/Deep Learning with Azure.epub
+http://file.allitebooks.com/20180820/TensorFlow for Deep Learning.pdf
+http://file.allitebooks.com/20180804/Applied Analytics through Case Studies Using SAS and R.pdf
+http://file.allitebooks.com/20180804/Applied Analytics through Case Studies Using SAS and R.epub
+http://file.allitebooks.com/20180729/R Machine Learning By Example.epub
+http://file.allitebooks.com/20180725/Cracking Codes with Python.epub
+http://file.allitebooks.com/20180725/Cracking Codes with Python.azw3
+http://file.allitebooks.com/20180723/Practical Bot Development.pdf
+http://file.allitebooks.com/20180723/Practical Bot Development.epub
+http://file.allitebooks.com/20180707/Beginning Blockchain.pdf
+http://file.allitebooks.com/20180705/Deep Belief Nets in C++ and CUDA C Volume 3.pdf
+http://file.allitebooks.com/20180627/Deep Learning for Natural Language Processing.pdf
+http://file.allitebooks.com/20180609/Veracity of Big Data.pdf
+http://file.allitebooks.com/20180526/Advanced Data Analytics Using Python.pdf
+http://file.allitebooks.com/20180513/The Python 3 Standard Library by Example.pdf
+http://file.allitebooks.com/20180512/Data Science Fundamentals for Python and MongoDB.pdf
+http://file.allitebooks.com/20180503/Introduction to Deep Learning Business Applications for Developers.pdf
+http://file.allitebooks.com/20180424/Deep Belief Nets in C and CUDA C Volume 1.pdf
+http://file.allitebooks.com/20180423/Assessing and Improving Prediction and Classification.pdf
+http://file.allitebooks.com/20180417/Programming Interviews Exposed, 4th Edition.pdf
+http://file.allitebooks.com/20180313/Good Habits for Great Coding.pdf
+http://file.allitebooks.com/20180311/Propeller Programming.pdf
+http://file.allitebooks.com/20180119/Java Game Development with LibGDX, 2nd Edition.pdf
+http://file.allitebooks.com/20171221/Practical Machine Learning with Python.pdf
+http://file.allitebooks.com/20171216/Learn Computer Science with Swift.pdf
+http://file.allitebooks.com/20171210/Reinforcement Learning.pdf
+http://file.allitebooks.com/20170831/Thoughtful Machine Learning with Python.pdf
+http://file.allitebooks.com/20170825/Docker for Data Science.pdf
+http://file.allitebooks.com/20170817/Artificial Intelligence for .NET.pdf
+http://file.allitebooks.com/20170811/Artificial Intelligence for Marketing.pdf
+http://file.allitebooks.com/20170728/Data Science with Java Practical Methods for Scientists and Engineers.pdf
+http://file.allitebooks.com/20170721/Introduction to Deep Learning Using R.pdf
+http://file.allitebooks.com/20170720/Mastering Concurrency Programming with Java 8.pdf
+http://file.allitebooks.com/20170718/Java 9 Recipes, 3rd Edition.pdf
+http://file.allitebooks.com/20170623/R Deep Learning Essentials.pdf
+http://file.allitebooks.com/20170525/Machine Learning in Action.pdf
+http://file.allitebooks.com/20170517/Machine Learning in Java.pdf
+http://file.allitebooks.com/20170511/Android Sensor Programming By Example.pdf
+http://file.allitebooks.com/20170505/Python Machine Learning Blueprints.pdf
+http://file.allitebooks.com/20170418/Deep Learning with Python.pdf
+http://file.allitebooks.com/20170404/Java Deep Learning Essentials.pdf
+http://file.allitebooks.com/20170324/Learning Predictive Analytics with Python.pdf
+http://file.allitebooks.com/20170320/Python Data Science Handbook.pdf
+http://file.allitebooks.com/20170311/Data Analytics with Hadoop.pdf
+http://file.allitebooks.com/20170307/Django Project Blueprints.pdf
+http://file.allitebooks.com/20170304/Tabular Modeling with SQL Server 2016 Analysis Services Cookbook.pdf
+http://file.allitebooks.com/20170226/Machine Learning Refined.pdf
+http://file.allitebooks.com/20170212/Getting Started with Simulink.pdf
+http://file.allitebooks.com/20170202/Big Data Analytics with R and Hadoop.pdf
+http://file.allitebooks.com/20170122/Mastering Python Data Analysis.pdf
+http://file.allitebooks.com/20170122/Making Sense of Sensors.pdf
+http://file.allitebooks.com/20170120/Introduction to Computing Using Python, 2nd Edition.pdf
+http://file.allitebooks.com/20170112/Practical Machine Learning with H2O.pdf
+http://file.allitebooks.com/20170110/C-- in One Hour a Day, Sams Teach Yourself, 8th Edition.pdf
+http://file.allitebooks.com/20170105/Internet of Things and Big Data Technologies for Next Generation Healthcare.pdf
+http://file.allitebooks.com/20161230/Pro Hadoop Data Analytics.pdf
+http://file.allitebooks.com/20161230/Beginning Ethical Hacking with Python.pdf
+http://file.allitebooks.com/20161224/Machine Learning Using R.pdf
+http://file.allitebooks.com/20161217/Building Trading Bots Using Java.pdf
+http://file.allitebooks.com/20161210/Practical C.pdf
+http://file.allitebooks.com/20161205/Mastering JBoss Drools 6 for Developers.pdf
+http://file.allitebooks.com/20161204/Text Analytics with Python.pdf
+http://file.allitebooks.com/20161120/Mastering C- Concurrency.pdf
+http://file.allitebooks.com/20161120/Beginning Robotics Programming in Java with LEGO Mindstorms.pdf
+http://file.allitebooks.com/20161113/Python Recipes Handbook.pdf
+http://file.allitebooks.com/20161102/Automated Trading with R.pdf
+http://file.allitebooks.com/20161028/Fast Data Processing with Spark 2, 3rd Edition.pdf
+http://file.allitebooks.com/20161011/Practical Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20161009/Spark for Data Science.pdf
+http://file.allitebooks.com/20161009/Automated Trading with R.pdf
+http://file.allitebooks.com/20161005/Options and Derivatives Programming in C++.pdf
+http://file.allitebooks.com/20161003/R Object-Oriented Programming.pdf
+http://file.allitebooks.com/20161002/C++ Game Development Cookbook.pdf
+http://file.allitebooks.com/20160927/Instant OpenCV Starter.pdf
+http://file.allitebooks.com/20160919/Mastering Natural Language Processing with Python.pdf
+http://file.allitebooks.com/20160913/Collective Intelligence in Action.pdf
+http://file.allitebooks.com/20160911/Machine Learning for Email.pdf
+http://file.allitebooks.com/20160908/Learning OpenCV 3 Computer Vision with Python, 2nd Edition.pdf
+http://file.allitebooks.com/20160908/A Practical Introduction to Computer Vision with OpenCV.pdf
+http://file.allitebooks.com/20160908/OpenCV Essentials.pdf
+http://file.allitebooks.com/20160903/Mastering Python Data Visualization.pdf
+http://file.allitebooks.com/20160825/Introduction to Machine Learning with Python.pdf
+http://file.allitebooks.com/20160819/Unity 5.x Shaders and Effects Cookbook.pdf
+http://file.allitebooks.com/20160817/Large Scale Machine Learning with Python.rar
+http://file.allitebooks.com/20160805/Understanding Compression.pdf
+http://file.allitebooks.com/20160802/Data Clustering in C++.pdf
+http://file.allitebooks.com/20160728/Python Data Analysis Cookbook.rar
+http://file.allitebooks.com/20160708/CJKV Information Processing.pdf
+http://file.allitebooks.com/20160706/Spark GraphX in Action.pdf
+http://file.allitebooks.com/20160701/Neo4j High Performance.pdf
+http://file.allitebooks.com/20160630/C++ Standard Library Quick Reference.pdf
+http://file.allitebooks.com/20160617/Apache Mahout Cookbook.pdf
+http://file.allitebooks.com/20160611/Mastering SciPy.pdf
+http://file.allitebooks.com/20160602/Scala for Machine Learning.pdf
+http://file.allitebooks.com/20160531/D Cookbook.pdf
+http://file.allitebooks.com/20160530/Learning Probabilistic Graphical Models in R.pdf
+http://file.allitebooks.com/20160528/Security and Privacy in Internet of Things (IoTs).pdf
+http://file.allitebooks.com/20160526/Unity 5.x Shaders and Effects Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160524/Data Structures Using C, 2nd edition.pdf
+http://file.allitebooks.com/20160524/Data Structures using C++.pdf
+http://file.allitebooks.com/20160519/OpenCV for Secret Agents.pdf
+http://file.allitebooks.com/20160514/Making Musical Apps.pdf
+http://file.allitebooks.com/20160513/Optimized C++.pdf
+http://file.allitebooks.com/20160503/Haskell Data Analysis Cookbook.pdf
+http://file.allitebooks.com/20160425/Mastering Social Media Mining with R.pdf
+http://file.allitebooks.com/20160421/Clojure for Data Science.pdf
+http://file.allitebooks.com/20160419/Unity 5.x Game AI Programming Cookbook.pdf
+http://file.allitebooks.com/20160416/Designing Machine Learning Systems with Python.pdf
+http://file.allitebooks.com/20160404/Practical Probabilistic Programming.pdf
+http://file.allitebooks.com/20160330/Building a Recommendation System with R.pdf
+http://file.allitebooks.com/20160326/Machine Learning with R, Second Edition.pdf
+http://file.allitebooks.com/20160323/Implementation and Application of Automata.pdf
+http://file.allitebooks.com/20160323/Social Network-Based Recommender Systems.pdf
+http://file.allitebooks.com/20160320/Spark Cookbook.pdf
+http://file.allitebooks.com/20160316/Digital Imaging Primer.pdf
+http://file.allitebooks.com/20160316/Rapid BeagleBoard Prototyping with MATLAB and Simulink.pdf
+http://file.allitebooks.com/20160314/Haskell Financial Data Modeling and Predictive Analytics.pdf
+http://file.allitebooks.com/20160309/Learn PHP 7.pdf
+http://file.allitebooks.com/20160308/Fsharp_for_Machine_Learning_Essentials.pdf
+http://file.allitebooks.com/20160228/Programming Computer Vision with Python.pdf
+http://file.allitebooks.com/20160226/Practical Graph Mining with R.pdf
+http://file.allitebooks.com/20160225/Pentaho for Big Data Analytics.pdf
+http://file.allitebooks.com/20160213/Introduction to HPC with MPI for Data Science.pdf
+http://file.allitebooks.com/20160207/Clojure for Machine Learning.pdf
+http://file.allitebooks.com/20160202/Apache Maven 3 Cookbook.pdf
+http://file.allitebooks.com/20160217/Big Data Analytics with Spark.pdf
+http://file.allitebooks.com/20160124/OpenCV By Example.pdf
+http://file.allitebooks.com/20160123/OSPF- A Network Routing Protocol.pdf
+http://file.allitebooks.com/20160123/Clojure for Finance.pdf
+http://file.allitebooks.com/20160120/Advanced Topics in Computer Vision.pdf
+http://file.allitebooks.com/20160110/Scalable Big Data Architecture.pdf
+http://file.allitebooks.com/20160104/Learning Geospatial Analysis with Python.pdf
+http://file.allitebooks.com/20160103/Scala Data Analysis Cookbook.pdf
+http://file.allitebooks.com/20160103/Mastering Python Forensics.pdf
+http://file.allitebooks.com/20151230/Data Analysis with R.pdf
+http://file.allitebooks.com/20151230/Spark for Python Developers.pdf
+http://file.allitebooks.com/20151228/OpenCV Android Programming By Example.pdf
+http://file.allitebooks.com/20151224/Reconfigurable and Adaptive Computing.pdf
+http://file.allitebooks.com/20151222/Practical Graph Analytics with Apache Giraph.pdf
+http://file.allitebooks.com/20151221/SEO For 2016.pdf
+http://file.allitebooks.com/20151221/Big Data Analysis.pdf
+http://file.allitebooks.com/20151220/Introduction To Computing Using Python.pdf
+http://file.allitebooks.com/20151219/Computer Vision- Models, Learning, and Inference.pdf
+http://file.allitebooks.com/20151219/Machine Learning for Hackers.pdf
+http://file.allitebooks.com/20151217/Graph Databases.pdf
+http://file.allitebooks.com/20151212/Machine Learning.pdf
+http://file.allitebooks.com/20151211/Sudoku Programming With C.pdf
+http://file.allitebooks.com/20151211/3D Video Coding for Embedded Devices.pdf
+http://file.allitebooks.com/20151208/Intel Xeon Phi Coprocessor Architecture and Tools.pdf
+http://file.allitebooks.com/20151207/Data Science at the Command Line.pdf
+http://file.allitebooks.com/20151207/Fuzzy Preference Queries to Relational Databases.pdf
+http://file.allitebooks.com/20151204/Multispectral Biometrics.pdf
+http://file.allitebooks.com/20151202/Mathematical Structures for Computer Graphics.pdf
+http://file.allitebooks.com/20151202/Computer Vision for X-Ray Testing.pdf
+http://file.allitebooks.com/20151202/Foundations of Network Optimization and Games.pdf
+http://file.allitebooks.com/20151201/An Introduction to Machine Learning.pdf
+http://file.allitebooks.com/20151128/Guide to FPGA Implementation of Arithmetic Functions.pdf
+http://file.allitebooks.com/20151124/Python Data Science Cookbook.pdf
+http://file.allitebooks.com/20151123/Image and Video Processing in the Compressed Domain.pdf
+http://file.allitebooks.com/20151120/The Nature of Code.pdf
+http://file.allitebooks.com/20151115/Programming Projects in C for Students of Engineering, Science, and Mathematics.pdf
+http://file.allitebooks.com/20151112/A Guide to Graph Colouring.pdf
+http://file.allitebooks.com/20151112/Functional Programming with C++.pdf
+http://file.allitebooks.com/20151111/Game Theory in Wireless and Communication Networks.pdf
+http://file.allitebooks.com/20151106/Introduction to Computational Models with Python.pdf
+http://file.allitebooks.com/20151105/Processing- A Programming Handbook for Visual Designers and Artists, 2 edition.pdf
+http://file.allitebooks.com/20151105/Using the C++ Standard Template Libraries.pdf
+http://file.allitebooks.com/20151103/Interactive Computer Graphics, 6th Edition.pdf
+http://file.allitebooks.com/20151103/3D Face Modeling, Analysis and Recognition.pdf
+http://file.allitebooks.com/20151103/Design and Implementation of the MTX Operating System.pdf
+http://file.allitebooks.com/20151103/Scaling up Machine Learning.pdf
+http://file.allitebooks.com/20151101/Introduction to Programming with Java.pdf
+http://file.allitebooks.com/20151101/Introduction to Scientific Programming and Simulation Using R.pdf
+http://file.allitebooks.com/20151029/Practical Ruby Projects Ideas for the Eclectic Programmer.pdf
+http://file.allitebooks.com/20151029/Python Game Programming By Example.pdf
+http://file.allitebooks.com/20151026/The Art of SEO Mastering Search Engine Optimization, 3rd Edition.pdf
+http://file.allitebooks.com/20151025/Meta-Learning in Decision Tree Induction.pdf
+http://file.allitebooks.com/20151023/Agent-Based Modeling and Simulation with Swarm.pdf
+http://file.allitebooks.com/20151023/Computational Intelligent Data Analysis for Sustainable Development.pdf
+http://file.allitebooks.com/20151017/Efficient Learning Machines.pdf
+http://file.allitebooks.com/20151017/Python Machine Learning.pdf
+http://file.allitebooks.com/20151017/A Concise Introduction to Data Structures using Java.pdf
+http://file.allitebooks.com/20151016/Practical Robot Design- Game Playing Robots.pdf
+http://file.allitebooks.com/20151012/Bayesian Programming.pdf
+http://file.allitebooks.com/20151012/Data Mining Tools for Malware Detection.pdf
+http://file.allitebooks.com/20151012/Image Encryption- A Communication Perspective.pdf
+http://file.allitebooks.com/20151012/Parallelism in Matrix Computations.pdf
+http://file.allitebooks.com/20151010/Feature Selection for High-Dimensional Data.pdf
+http://file.allitebooks.com/20151005/Mastering Data Analysis with R.pdf
+http://file.allitebooks.com/20151003/Primer to Analysis of Genomic Data Using R (Use R!).pdf
+http://file.allitebooks.com/20151003/Exploring Robotics with ROBOTIS Systems.pdf
+http://file.allitebooks.com/20150930/Mastering Python for Data Science.pdf
+http://file.allitebooks.com/20150930/Learning ROS for Robotics Programming - Second Edition.pdf
+http://file.allitebooks.com/20150928/Group Search Optimization for Applications in Structural Design.pdf
+http://file.allitebooks.com/20150925/Making Friends on the Fly- Advances in Ad Hoc Teamwork.pdf
+http://file.allitebooks.com/20150925/Intelligent Systems- A Modern Approach.pdf
+http://file.allitebooks.com/20150922/Computational Intelligence in Digital and Network Designs and Applications.pdf
+http://file.allitebooks.com/20150918/Apache_Spark_Graph_Processing.pdf
+http://file.allitebooks.com/20150912/Mastering D3.js.pdf
+http://file.allitebooks.com/20150910/Data Analytics.pdf
+http://file.allitebooks.com/20150909/Channel Coding Techniques for Wireless Communications.pdf
+http://file.allitebooks.com/20150907/Learning SciPy for Numerical and Scientific Computing, 2nd Edition.pdf
+http://file.allitebooks.com/20150904/Learning Apache Mahout.pdf
+http://file.allitebooks.com/20150903/Advanced Topics in Java.pdf
+http://file.allitebooks.com/20150901/Introduction to Computation and Programming Using Python.pdf
+http://file.allitebooks.com/20150901/C++ Recipes A Problem-Solution Approach.pdf
+http://file.allitebooks.com/20150829/Professional Linux Kernel Architecture.pdf
+http://file.allitebooks.com/20150829/Learning Image Processing with OpenCV.pdf
+http://file.allitebooks.com/20150826/Computer Security- Principles and Practice, 3rd Edition.pdf
+http://file.allitebooks.com/20150823/Learning Data Mining with Python.pdf
+http://file.allitebooks.com/20150823/Learning Boost C++ Libraries.pdf
+http://file.allitebooks.com/20150822/Linear and Nonlinear Programming, 4 edition.pdf
+http://file.allitebooks.com/20150822/Guide to Computer Network Security, 3rd edition.pdf
+http://file.allitebooks.com/20150821/Java for Everyone- Late Objects.pdf
+http://file.allitebooks.com/20150814/Mastering Probabilistic Graphical Models using Python.pdf
+http://file.allitebooks.com/20150811/Python Data Science Essentials.pdf
+http://file.allitebooks.com/20150811/Creative Greenfoot.pdf
+http://file.allitebooks.com/20150807/Apache Mahout Essentials.pdf
+http://file.allitebooks.com/20150731/Mastering Pandas for Finance.pdf
+http://file.allitebooks.com/20150731/Gephi Cookbook.pdf
+http://file.allitebooks.com/20150731/XNA 4.0 Game Development by Example.pdf
+http://file.allitebooks.com/20150731/IPython Interactive Computing and Visualization Cookbook.pdf
+http://file.allitebooks.com/20150729/Invitation to Computer Science, 6th edition.pdf
+http://file.allitebooks.com/20150728/Statistics and Data Analysis for Microarrays Using R and Bioconductor (2nd Edition).pdf
+http://file.allitebooks.com/20150728/Interactive Data Visualization- Foundations, Techniques, and Applications.pdf
+http://file.allitebooks.com/20150727/Digital Image Processing and Analysis- Human and Computer Vision Applications with CVIPtools (2nd Edition).pdf
+http://file.allitebooks.com/20150724/Explorations in Computing- An Introduction to Computer Science.pdf
+http://file.allitebooks.com/20150722/An Introduction to Python and Computer Programming.pdf
+http://file.allitebooks.com/20150722/Machine Learning Paradigms- Applications in Recommender Systems.pdf
+http://file.allitebooks.com/20150722/Introduction to Evolutionary Computing, 2nd edition.pdf
+http://file.allitebooks.com/20150722/Handbook of Mathematical Methods in Imaging, 2nd edition.pdf
+http://file.allitebooks.com/20150721/Game AI Pro- Collected Wisdom of Game AI Professionals.pdf
+http://file.allitebooks.com/20150721/Statistical Computing in C++ and R.pdf
+http://file.allitebooks.com/20150720/Programming in C++ for Engineering and Science.pdf
+http://file.allitebooks.com/20150720/Guide to DataFlow Supercomputing- Basic Concepts, Case Studies, and a Detailed Example.pdf
+http://file.allitebooks.com/20150720/Machine Learning Projects for .NET Developers.pdf
+http://file.allitebooks.com/20150719/Web Corpus Construction.pdf
+http://file.allitebooks.com/20150715/Big Data Analytics with R and Hadoop.pdf
+http://file.allitebooks.com/20150714/Computing- A Historical and Technical Perspective.pdf
+http://file.allitebooks.com/20150711/Learning Apache Mahout Classification.pdf
+http://file.allitebooks.com/20150711/Designing Software Synthesizer Plug-Ins in C++.pdf
+http://file.allitebooks.com/20150711/The Intelligent Web.pdf
+http://file.allitebooks.com/20150707/Data Science from Scratch- First Principles with Python.pdf
+http://file.allitebooks.com/20150627/Foundations for Efficient Web Service Selection.pdf
+http://file.allitebooks.com/20150627/Heterogeneous Computing with OpenCL, 2nd Edition.pdf
+http://file.allitebooks.com/20150625/Intel Xeon Phi Coprocessor Architecture and Tools.pdf
+http://file.allitebooks.com/20150625/Designing Data-Intensive Applications.pdf
+http://file.allitebooks.com/20150625/Doing Data Science.pdf
+http://file.allitebooks.com/20150615/Learning Data Mining with R.pdf
+http://file.allitebooks.com/20150615/Models and Analysis for Distributed Systems.pdf
+http://file.allitebooks.com/20150615/Data Science from Scratch.pdf
+http://file.allitebooks.com/20150615/Data-Intensive Text Processing with MapReduce.pdf
+http://file.allitebooks.com/20150615/Hadoop The Definitive Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Cocos2d Game Development Blueprints.pdf
+http://file.allitebooks.com/20150529/Unity 4.x Game AI Programming.pdf
+http://file.allitebooks.com/20150528/Distibuted Systems.pdf
+http://file.allitebooks.com/20150523/Understanding LTE with MATLAB.pdf
+http://file.allitebooks.com/20150523/MIMO-OFDM for LTE, WiFi and WiMAX.pdf
+http://file.allitebooks.com/20150523/Mobile WiMAX.pdf
+http://file.allitebooks.com/20150523/HSPA Performance and Evolution.pdf
+http://file.allitebooks.com/20150523/Coding Theory.pdf
+http://file.allitebooks.com/20150523/Wireless Communications over MIMO Channels.pdf
+http://file.allitebooks.com/20150523/Next Generation Mobile Systems 3G - Beyond.pdf
+http://file.allitebooks.com/20150523/Radio Resource Management Strategies in UMTS.pdf
+http://file.allitebooks.com/20150521/What Is Computer Science.pdf
+http://file.allitebooks.com/20150521/Applied Cryptography, 2nd Edition.pdf
+http://file.allitebooks.com/20150519/TCPIP Architecture, Design and Implementation in Linux.pdf
+http://file.allitebooks.com/20150516/Mastering SQL Server 2014 Data Mining.pdf
+http://file.allitebooks.com/20150515/Computer Science Programming Basics in Ruby.pdf
+http://file.allitebooks.com/20150515/Ruby Under a Microscope.pdf
+http://file.allitebooks.com/20150515/Ruby Cookbook.pdf
+http://file.allitebooks.com/20150514/Building Probabilistic Graphical Models with Python.pdf
+http://file.allitebooks.com/20150514/Parallel Programming with Python.pdf
+http://file.allitebooks.com/20150514/scikit-learn Cookbook.pdf
+http://file.allitebooks.com/20150514/Learning SciPy for Numerical and Scientific Computing.pdf
+http://file.allitebooks.com/20150514/Practical Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Think Complexity.pdf
+http://file.allitebooks.com/20150513/Web Workers.pdf
+http://file.allitebooks.com/20150511/Pro .NET Performance.pdf
+http://file.allitebooks.com/20150510/Sams Teach Yourself C++ in One Hour a Day, 7th Edition.pdf
+http://file.allitebooks.com/20150510/Building Software for Simulation.pdf
+http://file.allitebooks.com/20150510/C++ Cookbook.pdf
+http://file.allitebooks.com/20150510/Accelerated C++ Practical Programming by Example.pdf
+http://file.allitebooks.com/20150509/Drools JBoss Rules 5.X Developer-s Guide.pdf
+http://file.allitebooks.com/20150507/Core PHP Programming, 3rd Edition.pdf

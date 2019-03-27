@@ -1,0 +1,58 @@
+http://file.allitebooks.com/20180408/Essential Docker for ASP.NET Core MVC.pdf
+http://file.allitebooks.com/20170923/Docker Management Design Patterns.pdf
+http://file.allitebooks.com/20170825/Docker for Data Science.pdf
+http://file.allitebooks.com/20170323/Securing Docker.pdf
+http://file.allitebooks.com/20170111/Deploying Rails with Docker, Kubernetes and ECS.pdf
+http://file.allitebooks.com/20161104/Learning Docker Networking.pdf
+http://file.allitebooks.com/20160626/Extending Docker.pdf
+http://file.allitebooks.com/20160607/Docker in Practice.pdf
+http://file.allitebooks.com/20160423/Kubernetes Microservices with Docker.pdf
+http://file.allitebooks.com/20160407/Docker in Action.pdf
+http://file.allitebooks.com/20160130/Pro Docker.pdf
+http://file.allitebooks.com/20151228/Monitoring Docker.pdf
+http://file.allitebooks.com/20151213/Using Docker.pdf
+http://file.allitebooks.com/20151111/Docker Cookbook.pdf
+http://file.allitebooks.com/20151008/Learning Docker.pdf
+http://file.allitebooks.com/20150527/Build Your Own PaaS with Docker.pdf
+http://file.allitebooks.com/20150527/Orchestrating Docker.pdf
+http://file.allitebooks.com/20190509/Continuous Delivery in Java.epub
+http://file.allitebooks.com/20190319/Play Framework Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20190319/Play Framework Cookbook, 2nd Edition.epub
+http://file.allitebooks.com/20181210/Mining the Social Web, 3rd Edition.pdf
+http://file.allitebooks.com/20181106/Pro SQL Server on Linux.pdf
+http://file.allitebooks.com/20181106/Pro SQL Server on Linux.epub
+http://file.allitebooks.com/20180807/BEGINNING C- 7 Programming with Visual Studio 2017.rar
+http://file.allitebooks.com/20180807/BEGINNING C- 7 Programming with Visual Studio 2017.rar
+http://file.allitebooks.com/20180418/Kubernetes in Action.pdf
+http://file.allitebooks.com/20171211/Expert Apache Cassandra Administration.pdf
+http://file.allitebooks.com/20171203/Real-Time Web Application Development.pdf
+http://file.allitebooks.com/20171025/Pro ASP.NET Core MVC 2, 7th Edition.pdf
+http://file.allitebooks.com/20170901/Cassandra The Definitive Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20170811/Pro Java Clustering and Scalability.pdf
+http://file.allitebooks.com/20170707/Pro Continuous Delivery.pdf
+http://file.allitebooks.com/20170613/Advanced Microservices.pdf
+http://file.allitebooks.com/20170610/Spring Microservices.pdf
+http://file.allitebooks.com/20170302/Ubuntu Unleashed 2017 Edition, 12th Edition.pdf
+http://file.allitebooks.com/20170214/Kubernetes Management Design Patterns.pdf
+http://file.allitebooks.com/20170110/Cloud Native Go.pdf
+http://file.allitebooks.com/20161102/Big Data SMACKBig Data SMACK.pdf
+http://file.allitebooks.com/20161028/DevOps for Web Development.pdf
+http://file.allitebooks.com/20160903/CentOS 7 Linux Server Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20160819/OpenShift for Developers.pdf
+http://file.allitebooks.com/20160731/Mastering Ubuntu Server.pdf
+http://file.allitebooks.com/20160519/Puppet for Containerization.pdf
+http://file.allitebooks.com/20160123/MongoDB Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160110/Web Development with Go.pdf
+http://file.allitebooks.com/20160104/DevOps Automation Cookbook.rar
+http://file.allitebooks.com/20151230/Getting Started with Kubernetes.pdf
+http://file.allitebooks.com/20151215/Amazon EC2 Cookbook.pdf
+http://file.allitebooks.com/20151213/Building Applications on Mesos.pdf
+http://file.allitebooks.com/20151120/Ansible for DevOps.pdf
+http://file.allitebooks.com/20151028/Spring Boot Cookbook.pdf
+http://file.allitebooks.com/20150930/Mastering Selenium WebDriver.pdf
+http://file.allitebooks.com/20150829/CoreOS Essentials.pdf
+http://file.allitebooks.com/20150811/OpenStack Object Storage Swift Essentials.pdf
+http://file.allitebooks.com/20150807/WildFly Cookbook.pdf
+http://file.allitebooks.com/20150615/Field Guide to Hadoop.pdf
+http://file.allitebooks.com/20150527/Google Compute Engine.pdf
+http://file.allitebooks.com/20150513/Ansible Up and Running.pdf
