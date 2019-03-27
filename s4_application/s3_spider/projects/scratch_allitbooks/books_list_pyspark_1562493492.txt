@@ -1,0 +1,6 @@
+http://file.allitebooks.com/20190322/PySpark SQL Recipes.pdf
+http://file.allitebooks.com/20190322/PySpark SQL Recipes.epub
+http://file.allitebooks.com/20181215/Machine Learning with PySpark.pdf
+http://file.allitebooks.com/20181215/Machine Learning with PySpark.epub
+http://file.allitebooks.com/20171211/PySpark Recipes.pdf
+http://file.allitebooks.com/20151215/Advanced Analytics With Spark.pdf

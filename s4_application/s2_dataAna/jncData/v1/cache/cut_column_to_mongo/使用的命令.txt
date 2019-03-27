@@ -1,0 +1,4 @@
+切换到mongodb的安装目录bin之下，
+
+mongodump -h 127.0.0.1 -d user_new -o c:\data\dump
+

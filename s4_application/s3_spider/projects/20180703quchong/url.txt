@@ -1,0 +1,7 @@
+https://map.baidu.com/mobile/webapp/search/search/qt=s&wd=%E5%B0%8F%E5%8C%BA&c=75/#place/detail
+
+https://map.baidu.com/mobile/webapp/search/search/qt=s
+{wd:keyword,
+c:75
+
+}

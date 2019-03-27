@@ -1,0 +1,104 @@
+http://file.allitebooks.com/20190509/Rethinking Productivity in Software Engineering.pdf
+http://file.allitebooks.com/20190509/Rethinking Productivity in Software Engineering.epub
+http://file.allitebooks.com/20151209/Beginning Software Engineering.pdf
+http://file.allitebooks.com/20151121/Object-Oriented and Classical Software Engineering, 8th Edition.pdf
+http://file.allitebooks.com/20151101/Object-Oriented Software Engineering.pdf
+http://file.allitebooks.com/20151013/The Leprechauns of Software Engineering.pdf
+http://file.allitebooks.com/20151010/Empirical Research in Software Engineering.pdf
+http://file.allitebooks.com/20150913/Green in Software Engineering.pdf
+http://file.allitebooks.com/20150721/Software Engineering Design- Theory and Practice.pdf
+http://file.allitebooks.com/20150709/Building Great Software Engineering Teams- Recruiting, Hiring, and Managing Your Team from Startup to Success.pdf
+http://file.allitebooks.com/20161007/Re-Engineering Legacy Software.pdf
+http://file.allitebooks.com/20151221/Software Test Engineering with IBM Rational Functional Tester.pdf
+http://file.allitebooks.com/20151025/Computer, Network, Software, and Hardware Engineering with Applications.pdf
+http://file.allitebooks.com/20151022/Model-Driven and Software Product Line Engineering.pdf
+http://file.allitebooks.com/20150712/Engineering Secure Software and Systems.pdf
+http://file.allitebooks.com/20181012/Software Development From A to Z.pdf
+http://file.allitebooks.com/20181012/Software Development From A to Z.epub
+http://file.allitebooks.com/20171127/Software Development, Design and Coding, 2nd Edition.pdf
+http://file.allitebooks.com/20161121/Software Reading Techniques.pdf
+http://file.allitebooks.com/20161023/Requirements Writing for System Engineering.pdf
+http://file.allitebooks.com/20160326/Site Reliability Engineering.pdf
+http://file.allitebooks.com/20151017/Software Testing- Concepts and Operations.pdf
+http://file.allitebooks.com/20150901/GSM System Engineering.pdf
+http://file.allitebooks.com/20150721/Correct Software in Web Applications and Web Services.pdf
+http://file.allitebooks.com/20150709/Leveraging the Wisdom of the Crowd in Software Testing.pdf
+http://file.allitebooks.com/20150627/Semantic Web and Model-Driven Engineering.pdf
+http://file.allitebooks.com/20150521/Practical Reverse Engineering.pdf
+http://file.allitebooks.com/20150521/Reverse Engineering Code with IDA Pro.pdf
+http://file.allitebooks.com/20150510/Building Software for Simulation.pdf
+http://file.allitebooks.com/20180307/Building Intelligent Systems.pdf
+http://file.allitebooks.com/20171216/Managers Guide to SharePoint Server 2016.pdf
+http://file.allitebooks.com/20170703/Models to Code.pdf
+http://file.allitebooks.com/20170318/Pro Python Best Practices.pdf
+http://file.allitebooks.com/20161230/CMMI for Development.pdf
+http://file.allitebooks.com/20161108/Java Performance Companion.pdf
+http://file.allitebooks.com/20160929/Mastering Data Mining with Python.pdf
+http://file.allitebooks.com/20160510/GNOME 3 Application Development Beginners Guide.pdf
+http://file.allitebooks.com/20160501/The Architecture of Privacy.pdf
+http://file.allitebooks.com/20160410/The Agile Samurai.pdf
+http://file.allitebooks.com/20160324/Jasmine JavaScript Testing.pdf
+http://file.allitebooks.com/20151226/Graph and Model Transformation.pdf
+http://file.allitebooks.com/20151222/Distributed Database Management Systems- A Practical Approach.pdf
+http://file.allitebooks.com/20151209/UML Classroom.pdf
+http://file.allitebooks.com/20151201/Handbook of Genetic Programming Applications.pdf
+http://file.allitebooks.com/20151118/Build Web Applications with Java.pdf
+http://file.allitebooks.com/20151107/Programming Language Processors in Java- Compilers and Interpreters.pdf
+http://file.allitebooks.com/20151105/Build your own 2D Game Engine and Create Great Web Games.pdf
+http://file.allitebooks.com/20150907/Mastering Python Design Patterns.pdf
+http://file.allitebooks.com/20150822/Security Planning- An Applied Approach.pdf
+http://file.allitebooks.com/20150729/GPGPU Programming for Games and Science.pdf
+http://file.allitebooks.com/20150617/Enterprise Rails.pdf
+http://file.allitebooks.com/20150519/UNIX Operating System.pdf
+http://file.allitebooks.com/20190604/CISSP All-in-One Exam Guide, 8th Edition.pdf
+http://file.allitebooks.com/20190524/The IDA Pro Book, 2nd edition.epub
+http://file.allitebooks.com/20190513/A Beginner's Guide to 3D Modeling.epub
+http://file.allitebooks.com/20181225/Hardening Azure Applications, 2nd Edition.pdf
+http://file.allitebooks.com/20181225/Hardening Azure Applications, 2nd Edition.epub
+http://file.allitebooks.com/20180718/Building Evolutionary Architectures.pdf
+http://file.allitebooks.com/20180704/Pro Machine Learning Algorithms.pdf
+http://file.allitebooks.com/20180628/Modern Data Access with Entity Framework Core.pdf
+http://file.allitebooks.com/20180609/Veracity of Big Data.pdf
+http://file.allitebooks.com/20180602/The Privacy Engineers Manifesto.pdf
+http://file.allitebooks.com/20180525/Building Games with Ethereum Smart Contracts.pdf
+http://file.allitebooks.com/20180410/Product Management Essentials.pdf
+http://file.allitebooks.com/20180402/Designing Distributed Systems.pdf
+http://file.allitebooks.com/20180124/Mastering AutoCAD Civil 3D 2009.pdf
+http://file.allitebooks.com/20171024/Extreme NXT, 2nd Edition.pdf
+http://file.allitebooks.com/20170731/CISSP Practice Tests - Sybex book.rar
+http://file.allitebooks.com/20170727/Electronics Cookbook.pdf
+http://file.allitebooks.com/20170619/CISSP (ISC)2 Certified Information.pdf
+http://file.allitebooks.com/20170416/Raspberry Pi Sensors.pdf
+http://file.allitebooks.com/20170409/Autodesk Revit 2017 for Architecture No Experience Required.pdf
+http://file.allitebooks.com/20161224/Cloud as a Service.pdf
+http://file.allitebooks.com/20160919/CISSP All-in-One Exam Guide, 7th Edition.pdf
+http://file.allitebooks.com/20160708/Logic Pro X For Dummies.pdf
+http://file.allitebooks.com/20160630/Building Embedded Systems.pdf
+http://file.allitebooks.com/20160522/Information Security, 2nd Edition.pdf
+http://file.allitebooks.com/20160513/RSpec Essentials.pdf
+http://file.allitebooks.com/20160323/Implementation and Application of Automata.pdf
+http://file.allitebooks.com/20160316/Cloud Networking for Big Data.pdf
+http://file.allitebooks.com/20160101/Metasploit Penetration Testing Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20151214/Essential Cybersecurity Science.pdf
+http://file.allitebooks.com/20151212/MPLS in the SDN Era.pdf
+http://file.allitebooks.com/20151202/Learning RSLogix 5000 Programming.pdf
+http://file.allitebooks.com/20151201/A Practical Introduction to Fuzzy Logic using LISP.pdf
+http://file.allitebooks.com/20151122/Effective Computation in Physics.pdf
+http://file.allitebooks.com/20151117/Programmable Logic Controllers.pdf
+http://file.allitebooks.com/20151023/Agent-Based Modeling and Simulation with Swarm.pdf
+http://file.allitebooks.com/20150910/The Antivirus Hacker-s Handbook.pdf
+http://file.allitebooks.com/20150906/Practical C++ Financial Programming.pdf
+http://file.allitebooks.com/20150826/Computer Security- Principles and Practice, 3rd Edition.pdf
+http://file.allitebooks.com/20150823/Distributed Networks- Intelligence, Security, and Applications.pdf
+http://file.allitebooks.com/20150727/Digital Image Processing and Analysis- Human and Computer Vision Applications with CVIPtools (2nd Edition).pdf
+http://file.allitebooks.com/20150721/Patterns of HCI Design and HCI Design of Patterns.pdf
+http://file.allitebooks.com/20150721/Aspect-Oriented Security Hardening of UML Design Models.pdf
+http://file.allitebooks.com/20150617/Effective UI.pdf
+http://file.allitebooks.com/20150612/CCNA Wireless 640-722 Official Cert Guide.pdf
+http://file.allitebooks.com/20150612/CCNP Routing and Switching SWITCH 300-115 Official Cert Guide.pdf
+http://file.allitebooks.com/20150603/Visio 2003 Bible.pdf
+http://file.allitebooks.com/20150530/Frameworks, Methodologies, and Tools for Developing Rich Internet Applications.pdf
+http://file.allitebooks.com/20150528/Solving Enterprise Applications Performance Puzzles.pdf
+http://file.allitebooks.com/20150523/Modelling and Dimensioning of Mobile Wireless Networks.pdf
+http://file.allitebooks.com/20150523/Indoor Radio Planning.pdf
+http://file.allitebooks.com/20150521/Metasploit Penetration Testing Cookbook.pdf

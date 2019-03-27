@@ -1,0 +1,9 @@
+with open('文件名和序号.txt', 'r')as f:
+    file_name_list=f.readlines()
+for item in file_name_list:
+    item.strip()
+    import re
+    pattern=re.sub('\s+', '|', item)
+    print(pattern)
+    a=pattern.split('|')
+    print(a)
