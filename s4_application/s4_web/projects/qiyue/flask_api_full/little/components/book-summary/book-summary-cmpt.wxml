@@ -1,0 +1,20 @@
+<view bind:tap="onTap" class="inner">
+  <image class="image" src="{{book.image}}" />
+  <view class='info-box'>
+    <text class='title'>{{book.title}}</text>
+    <text class='author'>{{book.author}}</text>
+    <text class='publisher'>{{book.publisher}}</text>
+    <text class='price'>¥{{book.price}}</text>
+    <!-- <view class='row'>
+      <text>{{book.publisher}}</text>
+      <text>¥{{book.price}}</text>
+    </view> -->
+    <!-- <view class='row'>
+      <text>出版年: {{book.pubdate}}</text>
+      <text>页数: {{book.pages}}</text>
+    </view> -->
+    <!-- <text>装帧: {{book.binding}}</text>
+    <text>ISBN: {{book.isbn}}</text> -->
+  </view>
+</view>
+<slot></slot>

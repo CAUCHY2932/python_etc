@@ -1,0 +1,297 @@
+http://file.allitebooks.com/20190528/Big Data Analytics.pdf
+http://file.allitebooks.com/20181004/Oracle Big Data Handbook.pdf
+http://file.allitebooks.com/20180609/Veracity of Big Data.pdf
+http://file.allitebooks.com/20180308/Complete Guide to Open Source Big Data Stack.pdf
+http://file.allitebooks.com/20170530/Processing Big Data with Azure HDInsight.pdf
+http://file.allitebooks.com/20170409/Learning Big Data with Amazon Elastic MapReduce.pdf
+http://file.allitebooks.com/20170302/Handbook of Big Data Technologies.pdf
+http://file.allitebooks.com/20170202/Big Data Analytics with R and Hadoop.pdf
+http://file.allitebooks.com/20170105/Internet of Things and Big Data Technologies for Next Generation Healthcare.pdf
+http://file.allitebooks.com/20161121/SQL on Big Data.pdf
+http://file.allitebooks.com/20161102/Big Data SMACKBig Data SMACK.pdf
+http://file.allitebooks.com/20160913/People Analytics in the Era of Big Data.pdf
+http://file.allitebooks.com/20160722/Big Data.pdf
+http://file.allitebooks.com/20160709/Making Big Data Work for Your Business.pdf
+http://file.allitebooks.com/20160505/Big Data Fundamentals.pdf
+http://file.allitebooks.com/20160503/Ethical Reasoning in Big Data.pdf
+http://file.allitebooks.com/20160426/Big Data Forensics - Learning Hadoop Investigations.pdf
+http://file.allitebooks.com/20160316/Cloud Networking for Big Data.pdf
+http://file.allitebooks.com/20160225/Pentaho for Big Data Analytics.pdf
+http://file.allitebooks.com/20160130/Next Generation Databases NoSQL, NewSQL, and Big Data.pdf
+http://file.allitebooks.com/20160217/Big Data Analytics with Spark.pdf
+http://file.allitebooks.com/20160124/Big Data Analysis for Bioinformatics and Biomedical Discoveries.pdf
+http://file.allitebooks.com/20160110/Scalable Big Data Architecture.pdf
+http://file.allitebooks.com/20151221/Big Data Analysis.pdf
+http://file.allitebooks.com/20151217/Big Data MBA.pdf
+http://file.allitebooks.com/20151214/Entity Information Life Cycle For Big Data.pdf
+http://file.allitebooks.com/20151211/Big Data Integration.pdf
+http://file.allitebooks.com/20151013/Big Data and The Internet of Things.pdf
+http://file.allitebooks.com/20151010/Big Data and Business Analytics.pdf
+http://file.allitebooks.com/20151006/Beginning Big Data with Power BI and Excel 2013.pdf
+http://file.allitebooks.com/20151003/Rule Based Systems for Big Data- A Machine Learning Approach.pdf
+http://file.allitebooks.com/20151003/Big Data in Complex Systems- Challenges and Opportunities.pdf
+http://file.allitebooks.com/20150913/Big Data.pdf
+http://file.allitebooks.com/20150822/Harness the Power of Big Data the IBM Big Data Platform.pdf
+http://file.allitebooks.com/20150721/Computational Intelligence for Big Data Analysis.pdf
+http://file.allitebooks.com/20150721/Sublinear Algorithms for Big Data Applications.pdf
+http://file.allitebooks.com/20150720/Big Data- A Primer.pdf
+http://file.allitebooks.com/20150715/Big Data Analytics with R and Hadoop.pdf
+http://file.allitebooks.com/20150615/Big Data Analytics Using Splunk.pdf
+http://file.allitebooks.com/20150615/Getting Started with Greenplum for Big Data Analytics.pdf
+http://file.allitebooks.com/20150615/Real-Time Big Data Analytics.pdf
+http://file.allitebooks.com/20150615/Big Data Bootcamp.pdf
+http://file.allitebooks.com/20150615/Big Data Made Easy.pdf
+http://file.allitebooks.com/20150615/Big Data, Big Innovation.pdf
+http://file.allitebooks.com/20150615/Talend for Big Data.pdf
+http://file.allitebooks.com/20150615/Big Data Application Architecture Q-A.pdf
+http://file.allitebooks.com/20150615/Big Data For Dummies.pdf
+http://file.allitebooks.com/20150615/Big Data Imperatives.pdf
+http://file.allitebooks.com/20150615/Scaling Big Data with Hadoop and Solr.pdf
+http://file.allitebooks.com/20150615/Big Data Now 2012 Edition.pdf
+http://file.allitebooks.com/20150615/Ethics of Big Data.pdf
+http://file.allitebooks.com/20150615/Big Data Glossary.pdf
+http://file.allitebooks.com/20150615/Big Data Now.pdf
+http://file.allitebooks.com/20160317/Big Visual Data Analysis.pdf
+http://file.allitebooks.com/20190524/Architecting Modern Data Platforms.epub
+http://file.allitebooks.com/20190110/Large Scale Data Analytics.pdf
+http://file.allitebooks.com/20190110/Large Scale Data Analytics.epub
+http://file.allitebooks.com/20181219/Understanding Azure Data Factory.pdf
+http://file.allitebooks.com/20181219/Understanding Azure Data Factory.epub
+http://file.allitebooks.com/20180628/Practical Enterprise Data Lake Insights.pdf
+http://file.allitebooks.com/20180526/Advanced Data Analytics Using Python.pdf
+http://file.allitebooks.com/20180407/Optimizing Data-to-Learning-to-Action.pdf
+http://file.allitebooks.com/20170726/Practical Statistics for Data Scientists.pdf
+http://file.allitebooks.com/20170424/Oracle NoSQL Database.pdf
+http://file.allitebooks.com/20170408/Usage-Driven Database Design.pdf
+http://file.allitebooks.com/20170310/Beginning Data Science in R.pdf
+http://file.allitebooks.com/20170304/Data Science For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20170113/Source Code Analytics With Roslyn and JavaScript Data Visualization.pdf
+http://file.allitebooks.com/20161230/Pro Hadoop Data Analytics.pdf
+http://file.allitebooks.com/20161230/R for Data Science- Import, Tidy, Transform, Visualize, and Model Data.pdf
+http://file.allitebooks.com/20161028/Fast Data Processing with Spark 2, 3rd Edition.pdf
+http://file.allitebooks.com/20161011/Practical Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20161009/Spark for Data Science.pdf
+http://file.allitebooks.com/20160802/Winning with Data.pdf
+http://file.allitebooks.com/20160721/Oracle Database 11g DBA Handbook.pdf
+http://file.allitebooks.com/20160213/Introduction to HPC with MPI for Data Science.pdf
+http://file.allitebooks.com/20160118/Data as a Service.pdf
+http://file.allitebooks.com/20151216/SAP Data Services 4.x Cookbook.pdf
+http://file.allitebooks.com/20151213/Building and Maintaining a Data Warehouse.pdf
+http://file.allitebooks.com/20151211/Concise Guide To Databases.pdf
+http://file.allitebooks.com/20151201/Beginning Oracle Database 12c Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20151124/Python Data Science Cookbook.pdf
+http://file.allitebooks.com/20151111/Learning to Love Data Science.pdf
+http://file.allitebooks.com/20151010/Feature Selection for High-Dimensional Data.pdf
+http://file.allitebooks.com/20151005/Beginning Oracle Database 11g Administration- From Novice to Professional.pdf
+http://file.allitebooks.com/20151005/Mastering Data Analysis with R.pdf
+http://file.allitebooks.com/20151003/Primer to Analysis of Genomic Data Using R (Use R!).pdf
+http://file.allitebooks.com/20150930/OpenGL Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20150930/Mastering Python for Data Science.pdf
+http://file.allitebooks.com/20150920/Mastering Structured Data on the Semantic Web.pdf
+http://file.allitebooks.com/20150823/Managing Your Biological Data with Python.pdf
+http://file.allitebooks.com/20150731/Creating a Data-Driven Organization.pdf
+http://file.allitebooks.com/20150720/Guide to DataFlow Supercomputing- Basic Concepts, Case Studies, and a Detailed Example.pdf
+http://file.allitebooks.com/20150711/Data Science in the Cloud with Microsoft Azure Machine Learning and R.pdf
+http://file.allitebooks.com/20150709/Building Your Next Big Thing with Google Cloud Platform- A Guide for Developers and Enterprise Architects.pdf
+http://file.allitebooks.com/20150625/Seven Databases in Seven Weeks.pdf
+http://file.allitebooks.com/20150615/Data Scientists at Work.pdf
+http://file.allitebooks.com/20150615/Google BigQuery Analytics.pdf
+http://file.allitebooks.com/20150615/Practical Data Analysis.pdf
+http://file.allitebooks.com/20150615/Data Science For Dummies.pdf
+http://file.allitebooks.com/20150615/Fast Data Processing with Spark, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Agile Data Science.pdf
+http://file.allitebooks.com/20150615/Fast Data Processing with Spark.pdf
+http://file.allitebooks.com/20150523/Spring Data.pdf
+http://file.allitebooks.com/20160718/Java EE 7 The Big Picture.pdf
+http://file.allitebooks.com/20190611/Haskell Quick Syntax Reference.pdf
+http://file.allitebooks.com/20190611/Haskell Quick Syntax Reference.epub
+http://file.allitebooks.com/20190607/NFC For Dummies.pdf
+http://file.allitebooks.com/20190516/Python All-in-One For Dummies.pdf
+http://file.allitebooks.com/20190516/Python All-in-One For Dummies.epub
+http://file.allitebooks.com/20190401/Apache Solr Search Patterns.pdf
+http://file.allitebooks.com/20190212/HBase Administration Cookbook.pdf
+http://file.allitebooks.com/20190203/MATLAB Machine Learning Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20190203/MATLAB Machine Learning Recipes, 2nd Edition.epub
+http://file.allitebooks.com/20181225/Numerical Python, 2nd Edition.pdf
+http://file.allitebooks.com/20181225/Numerical Python, 2nd Edition.epub
+http://file.allitebooks.com/20181201/Learn R for Applied Statistics.pdf
+http://file.allitebooks.com/20181201/Learn R for Applied Statistics.epub
+http://file.allitebooks.com/20181118/Block Trace Analysis and Storage System Optimization.pdf
+http://file.allitebooks.com/20181118/Block Trace Analysis and Storage System Optimization.epub
+http://file.allitebooks.com/20181018/Mastering Azure Analytics.pdf
+http://file.allitebooks.com/20180926/UX Optimization.pdf
+http://file.allitebooks.com/20180926/UX Optimization.epub
+http://file.allitebooks.com/20180311/Distributed Computing with Python.zip
+http://file.allitebooks.com/20171211/PySpark Recipes.pdf
+http://file.allitebooks.com/20171211/Expert Apache Cassandra Administration.pdf
+http://file.allitebooks.com/20171029/Kafka The Definitive Guide.pdf
+http://file.allitebooks.com/20171029/Python Machine Learning Case Studies.pdf
+http://file.allitebooks.com/20171014/Spring 5 Recipes, 4th Edition.pdf
+http://file.allitebooks.com/20171002/Pro Functional PHP Programming.pdf
+http://file.allitebooks.com/20170929/Pro Functional PHP Programming.pdf
+http://file.allitebooks.com/20170915/Practical Concurrent Haskell.pdf
+http://file.allitebooks.com/20170706/Apache Hive Cookbook.pdf
+http://file.allitebooks.com/20170623/R Deep Learning Essentials.pdf
+http://file.allitebooks.com/20170616/MATLAB Deep Learning.pdf
+http://file.allitebooks.com/20170614/Excel Power Pivot and Power Query For Dummies.pdf
+http://file.allitebooks.com/20170529/CoreOS in Action.pdf
+http://file.allitebooks.com/20170517/Machine Learning in Java.pdf
+http://file.allitebooks.com/20170322/Pro RESTful APIs.pdf
+http://file.allitebooks.com/20170318/Pro Python Best Practices.pdf
+http://file.allitebooks.com/20170112/Practical Machine Learning with H2O.pdf
+http://file.allitebooks.com/20161230/Pro Apache Phoenix.pdf
+http://file.allitebooks.com/20161224/Machine Learning Using R.pdf
+http://file.allitebooks.com/20161216/Beginning Apache Pig.pdf
+http://file.allitebooks.com/20161115/Beginning Hibernate, 4th Edition.pdf
+http://file.allitebooks.com/20161113/Python Recipes Handbook.pdf
+http://file.allitebooks.com/20161110/Reactive Java Programming.pdf
+http://file.allitebooks.com/20161106/Practical Hadoop Ecosystem.pdf
+http://file.allitebooks.com/20161104/Mastering Oracle GoldenGate.pdf
+http://file.allitebooks.com/20161104/Practical Business Analytics Using SAS.pdf
+http://file.allitebooks.com/20161029/Professional Hadoop.pdf
+http://file.allitebooks.com/20160922/Professional Scala.pdf
+http://file.allitebooks.com/20160922/Social Machines.pdf
+http://file.allitebooks.com/20160907/CompTIA Server+ Study Guide.pdf
+http://file.allitebooks.com/20160829/Practical Hive.pdf
+http://file.allitebooks.com/20160818/Monitoring ElasticSearch.pdf
+http://file.allitebooks.com/20160817/Large Scale Machine Learning with Python.rar
+http://file.allitebooks.com/20160815/Practical Hadoop Migration.pdf
+http://file.allitebooks.com/20160706/Java XML and JSON.pdf
+http://file.allitebooks.com/20160617/Pro Spark Streaming.pdf
+http://file.allitebooks.com/20160602/Scala for Machine Learning.pdf
+http://file.allitebooks.com/20160531/WebGL Hotshot.pdf
+http://file.allitebooks.com/20160530/Learning Probabilistic Graphical Models in R.pdf
+http://file.allitebooks.com/20160527/Internet of Things with Python.pdf
+http://file.allitebooks.com/20160508/Hadoop Operations and Cluster Management Cookbook.pdf
+http://file.allitebooks.com/20160423/Kubernetes Microservices with Docker.pdf
+http://file.allitebooks.com/20160421/Bioinformatics with Python Cookbook.pdf
+http://file.allitebooks.com/20160326/Machine Learning with R, Second Edition.pdf
+http://file.allitebooks.com/20160320/Learning Spark.pdf
+http://file.allitebooks.com/20160130/Practical MongoDB.pdf
+http://file.allitebooks.com/20160119/R for Programmers.pdf
+http://file.allitebooks.com/20151230/Learning RabbitMQ.pdf
+http://file.allitebooks.com/20151228/Apache Oozie Essentials.pdf
+http://file.allitebooks.com/20151226/Enterprise Information Management in Practice.pdf
+http://file.allitebooks.com/20151222/The Definitive Guide to MongoDB, Third Edition.pdf
+http://file.allitebooks.com/20151218/Oracle 12c For Dummies.pdf
+http://file.allitebooks.com/20151218/Apache Kafka Cookbook.pdf
+http://file.allitebooks.com/20151217/Building Python Real-Time Applications with Storm.pdf
+http://file.allitebooks.com/20151212/Machine Learning.pdf
+http://file.allitebooks.com/20151125/QlikView Unlocked.pdf
+http://file.allitebooks.com/20151115/Game Analytics.pdf
+http://file.allitebooks.com/20151107/Learning Bayesian Models With R.pdf
+http://file.allitebooks.com/20151105/Practical Google Analytics and Google Tag Manager for Developers.pdf
+http://file.allitebooks.com/20151021/Privacy in a Digital, Networked World.pdf
+http://file.allitebooks.com/20151017/Efficient Learning Machines.pdf
+http://file.allitebooks.com/20151015/HDInsight Essentials, Second Edition.pdf
+http://file.allitebooks.com/20151010/Movie Analytics.pdf
+http://file.allitebooks.com/20151010/Numerical Python.pdf
+http://file.allitebooks.com/20150930/Learning HBase.pdf
+http://file.allitebooks.com/20150930/Learning YARN.pdf
+http://file.allitebooks.com/20150926/Cloudera Administration Handbook.pdf
+http://file.allitebooks.com/20150920/Pro Couchbase Development- A NoSQL Platform for the Enterprise.pdf
+http://file.allitebooks.com/20150918/Apache_Spark_Graph_Processing.pdf
+http://file.allitebooks.com/20150913/Agile Metrics in Action.pdf
+http://file.allitebooks.com/20150912/Mastering D3.js.pdf
+http://file.allitebooks.com/20150908/NoSQL For Dummies.pdf
+http://file.allitebooks.com/20150908/PostgreSQL Cookbook.pdf
+http://file.allitebooks.com/20150904/Learning Apache Mahout.pdf
+http://file.allitebooks.com/20150901/C++ Recipes A Problem-Solution Approach.pdf
+http://file.allitebooks.com/20150819/Hadoop For Dummies.pdf
+http://file.allitebooks.com/20150814/Machine Learning with R.pdf
+http://file.allitebooks.com/20150811/Learning dotNET High performance Programming.pdf
+http://file.allitebooks.com/20150811/Learning Cascading.pdf
+http://file.allitebooks.com/20150807/Mastering matplotlib.pdf
+http://file.allitebooks.com/20150731/Mastering AWS Development.pdf
+http://file.allitebooks.com/20150731/Learning scikit-learn Machine Learning in Python.pdf
+http://file.allitebooks.com/20150731/IPython Interactive Computing and Visualization Cookbook.pdf
+http://file.allitebooks.com/20150722/Machine Learning Paradigms- Applications in Recommender Systems.pdf
+http://file.allitebooks.com/20150716/Real-World Hadoop.pdf
+http://file.allitebooks.com/20150627/Storm Blueprints Patterns for Distributed Real-time Computation.pdf
+http://file.allitebooks.com/20150615/Graph Analysis and Visualization.pdf
+http://file.allitebooks.com/20150615/Mastering Splunk.pdf
+http://file.allitebooks.com/20150615/Real-Time Analytics.pdf
+http://file.allitebooks.com/20150615/Analyzing the Analyzers.pdf
+http://file.allitebooks.com/20150615/Apache Hive Essentials.pdf
+http://file.allitebooks.com/20150615/Field Guide to Hadoop.pdf
+http://file.allitebooks.com/20150615/Actionable Intelligence.pdf
+http://file.allitebooks.com/20150615/Apache Hadoop YARN.pdf
+http://file.allitebooks.com/20150615/Getting Started with Impala.pdf
+http://file.allitebooks.com/20150615/Learning Storm.pdf
+http://file.allitebooks.com/20150615/Mastering Hadoop.pdf
+http://file.allitebooks.com/20150615/Pig Design Patterns.pdf
+http://file.allitebooks.com/20150615/Pro Apache Hadoop, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Apache Sqoop Cookbook.pdf
+http://file.allitebooks.com/20150615/Hadoop MapReduce Cookbook.pdf
+http://file.allitebooks.com/20150615/Learning SPARQL, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Securing Hadoop.pdf
+http://file.allitebooks.com/20150615/MapReduce Design Patterns.pdf
+http://file.allitebooks.com/20150527/Introducing Windows Azure Hdinsight.pdf
+http://file.allitebooks.com/20150523/Making Sense of NoSQL.pdf
+http://file.allitebooks.com/20150523/Pro Hibernate and MongoDB.pdf
+http://file.allitebooks.com/20150523/HBase in Action.pdf
+http://file.allitebooks.com/20150523/SDN Software Defined Networks.pdf
+http://file.allitebooks.com/20150516/What-s New in SQL Server 2012.pdf
+http://file.allitebooks.com/20150514/Practical Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/C++ For Dummies, 7th Edition.pdf
+http://file.allitebooks.com/20150422/MongoDB-Cookbook.pdf
+http://file.allitebooks.com/20190414/Blockchain For Dummies 2nd Edition.epub
+http://file.allitebooks.com/20190227/Practical Machine Learning and Image Processing.pdf
+http://file.allitebooks.com/20190227/Practical Machine Learning and Image Processing.epub
+http://file.allitebooks.com/20190205/Blazor Revealed.pdf
+http://file.allitebooks.com/20190205/Blazor Revealed.epub
+http://file.allitebooks.com/20181120/The Full Stack Developer.pdf
+http://file.allitebooks.com/20181120/The Full Stack Developer.epub
+http://file.allitebooks.com/20181012/Software Development From A to Z.pdf
+http://file.allitebooks.com/20181012/Software Development From A to Z.epub
+http://file.allitebooks.com/20180906/iPad All-in-One For Dummies, 7th Edition.pdf
+http://file.allitebooks.com/20180830/Kafka Streams in Action.pdf
+http://file.allitebooks.com/20180826/Coding All-in-One For Dummies.pdf
+http://file.allitebooks.com/20180817/Beginning CouchDB.pdf
+http://file.allitebooks.com/20180711/CompTIA Security+ Review Guide, 4th Edition.pdf
+http://file.allitebooks.com/20171201/Cross Over to HTML5 Game Development.pdf
+http://file.allitebooks.com/20171113/Building a HIPAA-Compliant Cybersecurity Program.pdf
+http://file.allitebooks.com/20170927/Algorithms For Dummies.pdf
+http://file.allitebooks.com/20170825/Quick Clojure.pdf
+http://file.allitebooks.com/20170623/Procedural Content Generation for C++ Game Development.pdf
+http://file.allitebooks.com/20170411/Maven Build Customization.pdf
+http://file.allitebooks.com/20170122/Professional Microsoft SQL Server 2016 Reporting Services and Mobile Reports.pdf
+http://file.allitebooks.com/20161227/Swift Essentials, 2nd Edition.pdf
+http://file.allitebooks.com/20161124/Spectrum Sharing in Wireless Networks.pdf
+http://file.allitebooks.com/20161026/Oracle Application Express Administration.pdf
+http://file.allitebooks.com/20160930/Pro SQL Server 2005 Service Broker.pdf
+http://file.allitebooks.com/20160919/Mastering Natural Language Processing with Python.pdf
+http://file.allitebooks.com/20160901/Account-Based Marketing For Dummies.pdf
+http://file.allitebooks.com/20160829/Understanding ECMAScript 6.pdf
+http://file.allitebooks.com/20160826/Pro SQL Server on Microsoft Azure.pdf
+http://file.allitebooks.com/20160723/Mobile Device Exploitation Cookbook.pdf
+http://file.allitebooks.com/20160703/Zend Framework 2 Application Development.pdf
+http://file.allitebooks.com/20160416/Android Application Development Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160407/Learning Facebook Application Development.pdf
+http://file.allitebooks.com/20160324/Getting Started with MariaDB, 2nd Edition.pdf
+http://file.allitebooks.com/20160312/MariaDB Cookbook.pdf
+http://file.allitebooks.com/20160216/Mastering Zabbix.pdf
+http://file.allitebooks.com/20151221/SEO For 2016.pdf
+http://file.allitebooks.com/20151213/Tkinter GUI Application Development Blueprints.pdf
+http://file.allitebooks.com/20151205/Foundations of SQL Server 2008 R2 Business Intelligence.pdf
+http://file.allitebooks.com/20151122/Accumulo.pdf
+http://file.allitebooks.com/20151105/Expert Oracle Application Express, 2nd Edition.pdf
+http://file.allitebooks.com/20151015/Learning Android Intents.pdf
+http://file.allitebooks.com/20150930/Computational Movement Analysis.pdf
+http://file.allitebooks.com/20150913/Redis Essentials.pdf
+http://file.allitebooks.com/20150909/Web Security.pdf
+http://file.allitebooks.com/20150821/Model-Based Development- Applications.pdf
+http://file.allitebooks.com/20150729/Creating Universes with SAP BusinessObjects.pdf
+http://file.allitebooks.com/20150707/Getting Started with OrientDB.pdf
+http://file.allitebooks.com/20150626/jQuery UI Cookbook.pdf
+http://file.allitebooks.com/20150615/Apache Accumulo for Developers.pdf
+http://file.allitebooks.com/20150615/HBase The Definitive Guide.pdf
+http://file.allitebooks.com/20150612/SOA Using Java  Web Services.pdf
+http://file.allitebooks.com/20150530/Code in the Cloud.pdf
+http://file.allitebooks.com/20150527/Programming Elastic MapReduce.pdf
+http://file.allitebooks.com/20150523/MongoDB in Action.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Security Cookbook.pdf
+http://file.allitebooks.com/20150514/Beginning Python Visualization, 2nd Edition.pdf
+http://file.allitebooks.com/20150508/Pro Spring Batch.pdf
+http://file.allitebooks.com/20150429/Pro PHP MVC.pdf
+http://file.allitebooks.com/20150429/Programming PHP, 3rd Edition.pdf

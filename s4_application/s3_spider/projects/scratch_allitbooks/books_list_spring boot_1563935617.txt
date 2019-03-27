@@ -1,0 +1,20 @@
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.pdf
+http://file.allitebooks.com/20181130/Spring Boot 2 Recipes.epub
+http://file.allitebooks.com/20171211/Learn Microservices with Spring Boot.pdf
+http://file.allitebooks.com/20171002/Beginning Spring Boot 2.pdf
+http://file.allitebooks.com/20170508/Spring Boot Messaging.pdf
+http://file.allitebooks.com/20160526/Pro Spring Boot.pdf
+http://file.allitebooks.com/20160104/Spring Boot in Action.pdf
+http://file.allitebooks.com/20151028/Spring Boot Cookbook.pdf
+http://file.allitebooks.com/20190709/The Definitive Guide to Spring Batch, 2nd Edition.pdf
+http://file.allitebooks.com/20190709/The Definitive Guide to Spring Batch, 2nd Edition.epub
+http://file.allitebooks.com/20170610/Spring Microservices.pdf
+http://file.allitebooks.com/20161224/Pivotal Certified Professional Spring Developer Exam.pdf
+http://file.allitebooks.com/20160320/Spring MVC Cookbook.pdf
+http://file.allitebooks.com/20151206/Pivotal Certified Spring Enterprise Integration Specialist Exam.pdf
+http://file.allitebooks.com/20150921/Mastering Spring MVC 4.pdf
+http://file.allitebooks.com/20150709/Spring REST.pdf
+http://file.allitebooks.com/20190626/Practical Microservices Architectural Patterns.pdf
+http://file.allitebooks.com/20190626/Practical Microservices Architectural Patterns.epub
+http://file.allitebooks.com/20170811/Pro Java Clustering and Scalability.pdf
+http://file.allitebooks.com/20151227/Introducing Gradle.pdf

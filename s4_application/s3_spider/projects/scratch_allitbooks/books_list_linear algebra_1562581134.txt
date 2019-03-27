@@ -1,0 +1,26 @@
+http://file.allitebooks.com/20180908/Applied Deep Learning.pdf
+http://file.allitebooks.com/20180908/Applied Deep Learning.epub
+http://file.allitebooks.com/20180820/TensorFlow for Deep Learning.pdf
+http://file.allitebooks.com/20180512/Data Science Fundamentals for Python and MongoDB.pdf
+http://file.allitebooks.com/20170728/Data Science with Java Practical Methods for Scientists and Engineers.pdf
+http://file.allitebooks.com/20170526/Raspberry Pi Supercomputing and Scientific Programming.pdf
+http://file.allitebooks.com/20161005/Options and Derivatives Programming in C++.pdf
+http://file.allitebooks.com/20160903/Mastering Python Data Visualization.pdf
+http://file.allitebooks.com/20160611/Mastering SciPy.pdf
+http://file.allitebooks.com/20160326/NumPy Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160213/Introduction to HPC with MPI for Data Science.pdf
+http://file.allitebooks.com/20151115/Programming Projects in C for Students of Engineering, Science, and Mathematics.pdf
+http://file.allitebooks.com/20151012/Parallelism in Matrix Computations.pdf
+http://file.allitebooks.com/20150930/Mastering Python for Data Science.pdf
+http://file.allitebooks.com/20150907/Learning SciPy for Numerical and Scientific Computing, 2nd Edition.pdf
+http://file.allitebooks.com/20150728/OpenSceneGraph 3.0 Beginner's Guide.pdf
+http://file.allitebooks.com/20150721/Statistical Computing in C++ and R.pdf
+http://file.allitebooks.com/20150707/Data Science from Scratch- First Principles with Python.pdf
+http://file.allitebooks.com/20150625/Doing Data Science.pdf
+http://file.allitebooks.com/20150615/Mastering Scientific Computing with R.pdf
+http://file.allitebooks.com/20150615/Data Science from Scratch.pdf
+http://file.allitebooks.com/20150523/Wireless Communications over MIMO Channels.pdf
+http://file.allitebooks.com/20150514/NumPy Cookbook.pdf
+http://file.allitebooks.com/20150514/NumPy 1.5.pdf
+http://file.allitebooks.com/20180228/Practical Python AI Projects.pdf
+http://file.allitebooks.com/20150523/Coding Theory.pdf
