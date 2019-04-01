@@ -5,3 +5,4 @@
     https://dash.plot.ly/getting-started
     https://www.cnblogs.com/lemonbit/p/10593188.html
     https://www.plotly.express/
+    https://www.plotly.express/plotly_express/

@@ -1,3 +1,6 @@
+# coding:utf-8
+
+
 import plotly_express as px
 
 gapminder = px.data.gapminder()
