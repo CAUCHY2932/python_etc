@@ -2,24 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa1a05a-6aab-4839-8863-b339762f00cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../base/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../base/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/emotion_ana/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/emotion_ana/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/fenci/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/fenci/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/ntlk_handle/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/text_similarity/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/fenci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/full_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/lemmatization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/part_of_speech.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/remove_stop_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/text_pre_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuanzhi/tokenize/word_body.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/extract_feature/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/main_body/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/main_body/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/missing_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/normalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/standardization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering_sur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/install_packages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/text_classify/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python27/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python27/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python27/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python27/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuanzhi/emotion_ana/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuanzhi/emotion_ana/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/tools.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,70 +38,88 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/app.py">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/demo.py">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/main_body/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <element signature="e#61#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/main.py">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/main_body/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#62#71#0" expanded="true" />
+                <element signature="e#60#100#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/tools.py">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
-              <folding>
-                <element signature="e#62#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
-              <folding>
-                <element signature="e#60#71#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chuanzhi/text_similarity/app.py">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos/demo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#61#72#0" expanded="true" />
+                <element signature="e#61#85#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/datasets/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5909">
+              <caret line="327" column="4" selection-start-line="327" selection-start-column="4" selection-end-line="327" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -128,14 +154,31 @@
         <option value="$PROJECT_DIR$/chuanzhi/fenci/demo.py" />
         <option value="$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py" />
         <option value="$PROJECT_DIR$/chuanzhi/text_similarity/app.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/text_classify/app.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/cache.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/standardization.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/extract_feature/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/missing_value.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/main_body/README.md" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/main_body/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/demo.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/xietongguolv.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old2.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/install_packages.md" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering_sur.py" />
+        <option value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos/demo1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="730" />
-    <option name="y" value="11" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,18 +205,38 @@
               <item name="dataAna" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataAna" type="462c0819:PsiDirectoryNode" />
               <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
-              <item name="text_similarity" type="462c0819:PsiDirectoryNode" />
+              <item name="machineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataAna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataAna" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="machineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="recommend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataAna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataAna" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="text_classify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataAna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataAna" type="462c0819:PsiDirectoryNode" />
+              <item name="chuanzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="weibo_emotion_ana" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo1">
+    <configuration name="collaborative_filtering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAna" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,32 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/text_similarity" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/text_similarity/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dataAna" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/fenci" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/fenci/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/emotion_ana" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAna" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/fenci" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/machineLearning/main_body" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/fenci/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/machineLearning/main_body/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="full_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAna" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,11 +327,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/tokenize" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/tokenize/full_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recsys_old2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataAna" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,38 +363,65 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.demo1" />
+        <item itemvalue="Python.recsys_old2" />
+        <item itemvalue="Python.collaborative_filtering" />
+        <item itemvalue="Python.demo (3)" />
         <item itemvalue="Python.demo (1)" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.full_demo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa1a05a-6aab-4839-8863-b339762f00cf" name="Default Changelist" comment="" />
+      <created>1554257540674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554257540674</updated>
+    </task>
+    <servers />
+  </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36324787" />
       <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37725824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34537727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3134963" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18597236" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add chuanzhi content about emotion ana and jieba and tokenize things" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chuanzhi content about emotion ana and jieba and tokenize things" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/express/plotly安装.md">
@@ -427,6 +518,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/report.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1422" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -434,34 +530,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/report.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1422" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chuanzhi/fenci/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="1178">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
           <folding>
             <element signature="e#61#79#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/main.py">
+    <entry file="file://$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="475">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding>
             <element signature="e#62#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/tools.py">
+    <entry file="file://$PROJECT_DIR$/chuanzhi/text_similarity/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
+        <state relative-caret-position="1121">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="e#61#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/chinese_stopwords.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
           <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
           <folding>
             <element signature="e#62#71#0" expanded="true" />
@@ -469,22 +580,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/emotion_ana/demo.py">
+    <entry file="file://$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="931">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="e#60#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/text_similarity/app.py">
+    <entry file="file://$PROJECT_DIR$/chuanzhi/weibo_emotion_ana/cache.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="1154" column="4" selection-start-line="1154" selection-start-column="4" selection-end-line="1154" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/text_classify/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
           <folding>
-            <element signature="e#61#72#0" expanded="true" />
+            <element signature="e#60#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/preprocessing/imputation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/decomposition/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/extract_feature/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/decomposition/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/standardization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#83#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/missing_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#60#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/feature_selection/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/main_body/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/main_body/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#60#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5909">
+          <caret line="327" column="4" selection-start-line="327" selection-start-column="4" selection-end-line="327" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/install_packages.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/collaborative_filtering_sur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/surprise_demos/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#61#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
