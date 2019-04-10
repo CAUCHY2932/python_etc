@@ -1,0 +1,15 @@
+# python 爬虫环境配置
+
+conda install scrapy=1.5.2
+
+conda install requests=2.21.0
+
+pip install -i https://pypi.doubanio.com/simple pillow==6.0.0
+
+pip install -i https://pypi.doubanio.com/simple PyExecJS=1.5.1
+
+pip install -i https://pypi.doubanio.com/simple wget==3.2
+
+
+pip install -i https://pypi.doubanio.com/simple BeautifulSoup4==4.7.1
+

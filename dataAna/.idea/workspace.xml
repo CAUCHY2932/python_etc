@@ -2,57 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa1a05a-6aab-4839-8863-b339762f00cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/games/games.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/31省市居民家庭消费调查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/city.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/city2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/dbscan_alo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/学生月上网时间分布聚类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元1：聚类/聚类算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元2：降维/NMF、PCA-人脸图像特征抽取与对比.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元2：降维/PCA-鸢尾花数据集降维.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元2：降维/降维算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元3：基于聚类的整图分割实例/kmeans/bull.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元3：基于聚类的整图分割实例/kmeans/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元3：基于聚类的整图分割实例/实例：基于聚类的整图分割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第三周】机器学习之强化学习/单元8：自主学习Flappy Bird游戏项目分析/项目代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/A/A.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/A/A.label" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/B/B.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/B/B.label" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/C/C.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/C/C.label" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/D/D.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/D/D.label" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/E/E.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/E/E.label" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/XYZ/X.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/XYZ/Y.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/XYZ/Z.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/stock/000777.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/上证指数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/上证指数涨跌预测实例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/人体运动状态信息评级”实例编写与对比.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/分类算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元5：回归/prices.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元5：回归/回归算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元5：回归/多项式回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元5：回归/岭回归.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元5：回归/线性回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元6：手写数字识别实例分析/KNN实现“手写识别”实例编写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元6：手写数字识别实例分析/神经网络实现“手写识别”实例编写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/机器学习一些杂念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songtian/距离.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gui/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataAna.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataAna.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/python27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python27/demo.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chuanzhi/emotion_ana/tools.py" />
-        <option value="$PROJECT_DIR$/chuanzhi/emotion_ana/main.py" />
         <option value="$PROJECT_DIR$/chuanzhi/ntlk_handle/app.py" />
         <option value="$PROJECT_DIR$/chuanzhi/tokenize/app.py" />
         <option value="$PROJECT_DIR$/chuanzhi/tokenize/lemmatization.py" />
@@ -126,10 +83,13 @@
         <option value="$PROJECT_DIR$/songtian/机器学习一些杂念.md" />
         <option value="$PROJECT_DIR$/games/games.md" />
         <option value="$PROJECT_DIR$/songtian/距离.md" />
+        <option value="$PROJECT_DIR$/randdata/__init__.py" />
+        <option value="$PROJECT_DIR$/randdata/suiji.py" />
+        <option value="$PROJECT_DIR$/new_prac/new1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -161,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/songtian/【第一周】机器学习之无监督学习/单元3：基于聚类的整图分割实例" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -188,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.31省市居民家庭消费调查">
+  <component name="RunManager" selected="Python.suiji">
     <configuration name="学生月上网时间分布聚类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAna" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,6 +233,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataAna" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randdata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randdata/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataAna" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,8 +275,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="suiji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataAna" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randdata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randdata/suiji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.suiji" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.学生月上网时间分布聚类" />
         <item itemvalue="Python.31省市居民家庭消费调查" />
         <item itemvalue="Python.demo1" />
@@ -316,9 +320,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14278187" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -329,7 +333,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18400876" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18221258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,51 +359,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="add chuanzhi content about emotion ana and jieba and tokenize things" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/normalization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="e#60#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/preprocessing/imputation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/decomposition/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/extract_feature/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/decomposition/pca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/decomposition/pca.py" />
     <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/standardization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -410,20 +370,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-774">
-          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/dataset.py" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/recsys/__init__.py" />
     <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/pre_process/missing_value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -503,13 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/datasets/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5909">
-          <caret line="327" column="4" selection-start-line="327" selection-start-column="4" selection-end-line="327" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/data/Lib/site-packages/sklearn/datasets/base.py" />
     <entry file="file://$PROJECT_DIR$/chuanzhi/machineLearning/recommend/recsys_old.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -610,9 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/A/A.feature">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/A/A.feature" />
     <entry file="file://$PROJECT_DIR$/songtian/【第二周】机器学习之有监督学习/单元4：分类/分类算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -755,6 +695,39 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randdata/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#62#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randdata/suiji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_prac/new1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#62#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_prac/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python27/demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
