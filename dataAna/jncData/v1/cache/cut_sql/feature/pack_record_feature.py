@@ -161,22 +161,24 @@ class Reader(object):
 
 def go5():
     file_name = r'C:\Users\LvYangyang\Downloads\sample_test.tar\sample_test\common_features_test.csv'
-    line_num = 100
+    line_num = 2 ** 32
     # mongodb_url = 'localhost'
     # mongodb_name = 'user_new'
     # mongodb_table = 'object31'
+    k = 1
 
     with Reader(file_name, line_num) as rd:
         rd_gen = rd.read()
 
-    for item in rd_gen:
-        with Cutter(item) as ct:
-            ct.cut_to_record()
-            # print(ct.record_id)
-            with SqlSaver('feature_skeleton', '123456') as db:
-                db.cursor.execute('INSERT INTO feature(feature_id) VALUES(%s)', ct.record_id)
-                db.conn.commit()
-                print('insert successfully!')
+        for item in rd_gen:
+            with Cutter(item) as ct:
+                ct.cut_to_record()
+                # print(ct.record_id)
+                with SqlSaver('feature_skeleton', '123456') as db:
+                    db.cursor.execute('INSERT INTO feature(feature_id) VALUES(%s)', ct.record_id)
+                    db.conn.commit()
+                    k += 1
+                    print('insert {0:0>32} th record successfully!'.format(k))
 
             # with MongodbSaver(mongodb_url, mongodb_name, mongodb_table) as ms:
             #     ms.save(ct.data)
