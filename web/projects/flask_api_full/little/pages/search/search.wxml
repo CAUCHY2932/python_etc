@@ -1,0 +1,28 @@
+
+<view class='search'>
+
+  <view class='search-head'>
+    <view class='search-words'>
+      <text class='words'>{{q}}</text>
+    </view>
+  </view>
+
+  <view class='search-content'>
+  
+    <view class='result'>
+      <text>搜索 {{q}} 的结果</text>
+      <text>共<text class='maxText'>{{totalCount}}</text>条记录</text>
+    </view>
+
+    <view wx:for="{{books}}" wx:key wx:for-item="item">
+      <book-cmpt book="{{item}}"></book-cmpt>
+    </view>
+
+    <view wx:if='{{!totalCount}}' class="weui-loadmore weui-loadmore_line none-data">
+            <view class="weui-loadmore__tips weui-loadmore__tips_in-line">暂无数据</view>
+        </view>
+                
+
+  </view>
+
+</view>
