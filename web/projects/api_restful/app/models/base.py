@@ -16,7 +16,12 @@ class Movie(db.Model):
     id = Column(Integer, primary_key=True)
     year = Column(Integer, nullable=False)
     title = Column(String(64))
-    rating = Column(String(16))
+    rating_average = Column(String(16))
+    subtype = Column(String(16))
+    origin_title = Column(String(16))
+
+    genres = Column(String(16))
+    image = Column(String(16))
 
     def set_attrs(self, attrs):
         for k, v in attrs.items():

@@ -8,6 +8,9 @@
 from flask import Blueprint
 from app.spider.get_movie import MovieGetter
 from flask import jsonify
+
+from app.view_model.movieModel import MovieViewModel
+
 movie = Blueprint('movie', __name__)
 
 
@@ -21,5 +24,11 @@ def get(q):
     mg = MovieGetter()
     mg.search_by_keyword(q=q)
 
-    # return mg.detail['subjects']
-    return jsonify(mg.detail)
+    # return mg.detail
+
+    movies = MovieViewModel()
+    movies.collection_data(mg.detail)
+    #
+    # # return mg.detail['subjects']
+    return jsonify({'items': movies.movies,
+                    'total': movies.total})
