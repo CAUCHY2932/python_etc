@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block head %}
+    {{ super() }}
+     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css')}}">
+{% endblock %}
+{% block content %}
+    <div class="row">
+        <div class="col-md-12">
+        </div>
+    </div>
+    <div id="movies" class="row">
+        {% for movie in recent %}
+            <div class="col-md-4 movie-container">
+                    <div class="col-md-4 no-padding">
+                        <img class="movie-img cssshadow" src="{{ movie.image }}">
+                    </div>
+                    <div style="margin-left: 0;" class="col-md-8 flex-vertical movie-info">
+                        <span class="title">{{ movie.title }}</span>
+<!--                        <div class="description-font"><span>作者：</span><span>{{ movie.author }}</span>-->
+                        </div>
+                        <span class="summary description-font">暂时未有描述</span>
+                    </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
