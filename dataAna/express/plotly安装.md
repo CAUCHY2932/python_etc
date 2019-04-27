@@ -10,5 +10,4 @@ pip install -i https://pypi.doubanio.com/simple/ plotly_express
 
 # dash
 
-pip install -i https://pypi.doubanio.com/simple/ dash==0.39.0
-pip install -i https://pypi.doubanio.com/simple/ dash-daq==0.1.0
+pip install -i https://pypi.doubanio.com/simple/ dash==0.39.0 dash-daq==0.1.0
