@@ -28,7 +28,7 @@ class JncReader(object):
                  file_name,
                  encoding='utf-8'):
 
-        with open(file_name, 'r',encoding=encoding) as f:
+        with open(file_name, 'r', encoding=encoding) as f:
             return f.read()
 
     @classmethod
