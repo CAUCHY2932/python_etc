@@ -7,5 +7,5 @@
 """
 
 
-SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:123456@localhost/movie'
+SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:12345678@localhost/movie'
 

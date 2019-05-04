@@ -78,8 +78,8 @@ def index():
         这里使用了缓存，注意缓存必须是贴近index函数的
     """
     movie_list = MovieService.recent()
-    return render_template('index_new.html', recent=movie_list)
-    # return render_template('index.html')
+    # return render_template('index_new.html', recent=movie_list)
+    return render_template('index.html')
 
 @movie.route('')
 def my_gifts():

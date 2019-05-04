@@ -30,7 +30,7 @@ class Flask(_Flask):
 def register_blueprints(app):
     from app.web.movie import movie
     # from app.web.main import index
-    app.register_blueprint(movie, url_prefix='/m')
+    app.register_blueprint(movie, url_prefix='/movie')
     # app.register_blueprint(movie)
     # app.register_blueprint(index)
 
