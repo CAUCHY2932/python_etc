@@ -6,21 +6,48 @@
 
 {% block page_content %}
     <div class="page-header">
-        <h1>hello!
-{#            {% if name %}#}
+        <h1>hello,
+            {% if current_user.is_authenticated %}
+                {{ current_user.username }}
+            {% else %}
+                Stranger
+            {% endif %}
+{#            {% if not known %}#}
 {#                {{ name }}#}
 {#            {% else %}#}
-{#                Stranger#}
-{#            {% endif %}#}
-            {% if not known %}
-                {{ name }}
-            {% else %}
-                <p>happy to see you again!</p>
-            {% endif %}
+{#                <p>happy to see you again!</p>#}
+{#            {% endif %}!#}
         </h1>
     </div>
+
+    <div>
+    {% if current_user.can(Permission.WRITE) %}
     {{ wtf.quick_form(form) }}
-    <p>当地时间是： {{ moment(current_time).format('LLL') }}.</p>
+    {% endif %}
+    </div>
+
+    <ul class="posts">
+        {% for post in posts %}
+        <li class="post">
+            <div class="post-author">
+                <a href="{{ url_for('.user', username=post.author.username) }}">
+                    {{ post.author.username }}
+                </a>
+            </div>
+
+            <div class="post-body">
+                {{ post.body }}
+            </div>
+
+        </li>
+
+        {% endfor %}
+
+
+    </ul>
+
+    {{ wtf.quick_form(form) }}
+{#    <p>当地时间是： {{ moment(current_time).format('LLL') }}.</p>#}
 {#    <p>That was {{ moment(current_time).fromNow(refresh=True) }}</p>#}
 {% endblock %}
 

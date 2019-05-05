@@ -24,7 +24,8 @@ class Config:
     FLASKY_MAIL_SENDER = 'Flasky Admin <flasky@example.com>'
     FLASKY_ADMIN = os.environ.get('FLASKY_ADMIN')
     SSL_REDIRECT = False
-    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    # SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SQLALCHEMY_TRACK_MODIFICATIONS = True
     SQLALCHEMY_RECORD_QUERIES = True
     # FLASKY_POSTS_PER_PAGE = 20
     # FLASKY_FOLLOWERS_PER_PAGE = 50
@@ -38,8 +39,9 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    SQLALCHEMY_DATABASE_URI = os.environ.get('DEV_DATABASE_URL') or 'sqlite:///' + os.path.join(basedir,
-                                                                                                'data-dev.sqlite')
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DEV_DATABASE_URL'
+                                             ) or 'sqlite:///' + os.path.join(basedir,
+                                                                              'data-dev.sqlite')
 
 
 class TestingConfig(Config):
@@ -49,32 +51,32 @@ class TestingConfig(Config):
 
 
 class ProductionConfig(Config):
-    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or \
-                              'sqlite:///' + os.path.join(basedir,
-                                                          'data.sqlite')
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL'
+                                             ) or 'sqlite:///' + os.path.join(basedir,
+                                                                              'data.sqlite')
 
-    @classmethod
-    def init_app(cls, app):
-        Config.init_app(app)
-
-        # email errors to the administrators
-        import logging
-        from logging.handlers import SMTPHandler
-        credentials = None
-        secure = None
-        if getattr(cls, 'MAIL_USERNAME', None) is not None:
-            credentials = (cls.MAIL_USERNAME, cls.MAIL_PASSWORD)
-            if getattr(cls, 'MAIL_USE_TLS', None):
-                secure = ()
-        mail_handler = SMTPHandler(
-            mailhost=(cls.MAIL_SERVER, cls.MAIL_PORT),
-            fromaddr=cls.FLASKY_MAIL_SENDER,
-            toaddrs=[cls.FLASKY_ADMIN],
-            subject=cls.FLASKY_MAIL_SUBJECT_PREFIX + ' Application Error',
-            credentials=credentials,
-            secure=secure)
-        mail_handler.setLevel(logging.ERROR)
-        app.logger.addHandler(mail_handler)
+    # @classmethod
+    # def init_app(cls, app):
+    #     Config.init_app(app)
+    #
+    #     # email errors to the administrators
+    #     import logging
+    #     from logging.handlers import SMTPHandler
+    #     credentials = None
+    #     secure = None
+    #     if getattr(cls, 'MAIL_USERNAME', None) is not None:
+    #         credentials = (cls.MAIL_USERNAME, cls.MAIL_PASSWORD)
+    #         if getattr(cls, 'MAIL_USE_TLS', None):
+    #             secure = ()
+    #     mail_handler = SMTPHandler(
+    #         mailhost=(cls.MAIL_SERVER, cls.MAIL_PORT),
+    #         fromaddr=cls.FLASKY_MAIL_SENDER,
+    #         toaddrs=[cls.FLASKY_ADMIN],
+    #         subject=cls.FLASKY_MAIL_SUBJECT_PREFIX + ' Application Error',
+    #         credentials=credentials,
+    #         secure=secure)
+    #     mail_handler.setLevel(logging.ERROR)
+    #     app.logger.addHandler(mail_handler)
 
 
 config = {
