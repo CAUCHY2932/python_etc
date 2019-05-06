@@ -52,24 +52,23 @@ def index():
         db.session.commit()
         return redirect(url_for('.index'))
 
-    posts = Post.query.order_by(Post.timestamp.desc()).all()
-    return render_template('index.html', form=form, posts=posts)
+    # posts = Post.query.order_by(Post.timestamp.desc()).all()
+    # return render_template('index.html', form=form, posts=posts)
 
-
-    # page = request.args.get('page', 1, type=int)
-    # show_followed = False
-    # if current_user.is_authenticated:
-    #     show_followed = bool(request.cookies.get('show_followed', ''))
-    # if show_followed:
-    #     query = current_user.followed_posts
-    # else:
-    #     query = Post.query
-    # pagination = query.order_by(Post.timestamp.desc()).paginate(
-    #     page, per_page=current_app.config['FLASKY_POSTS_PER_PAGE'],
-    #     error_out=False)
-    # posts = pagination.items
-    # return render_template('index.html', form=form, posts=posts,
-    #                        show_followed=show_followed, pagination=pagination)
+    page = request.args.get('page', 1, type=int)
+    show_followed = False
+    if current_user.is_authenticated:
+        show_followed = bool(request.cookies.get('show_followed', ''))
+    if show_followed:
+        query = current_user.followed_posts
+    else:
+        query = Post.query
+    pagination = query.order_by(Post.timestamp.desc()).paginate(
+        page, per_page=current_app.config['FLASKY_POSTS_PER_PAGE'],
+        error_out=False)
+    posts = pagination.items
+    return render_template('index.html', form=form, posts=posts,
+                           show_followed=show_followed, pagination=pagination)
 
 
 @main.route('/user/<username>')
