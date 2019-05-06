@@ -7,39 +7,13 @@
 """
 from flask_login import login_required, current_user
 
-from app.decorators import admin_required
+from app.decorators import admin_required, permission_required
 from ..models import User, Role, Permission, Post
 from . import main
 from .forms import NameForm, EditProfileForm, EditProfileAdminForm, PostForm
 from datetime import datetime
-from flask import session, url_for, render_template, redirect, flash, request, current_app, abort
+from flask import session, url_for, render_template, redirect, flash, request, current_app, abort, make_response
 from .. import db
-
-
-# @main.route('/', methods=['GET', 'POST'])
-# def index():
-#     # name = None
-#     form = NameForm()
-#     if form.validate_on_submit():
-#         user = User.query.filter_by(username=form.name.data).first()
-#         if user is None:
-#             user = User(username=form.name.data)
-#             db.session.add(user)
-#             db.session.commit()
-#             session['known'] = False
-#         else:
-#             session['known'] = True
-#         # old_name = session.get('name')
-#         # if old_name is not None and old_name != form.name.data:
-#         #     flash('look like you have change your name!')
-#
-#         session['name'] = form.name.data
-#         form.name.data = ''
-#         return redirect(url_for('main.index'))
-#     return render_template('index.html',
-#                            current_time=datetime.utcnow(),
-#                            form=form, name=session.get('name'),
-#                            known=session.get('known', False))
 
 
 @main.route('/', methods=['GET', 'POST'])
@@ -125,3 +99,90 @@ def edit_profile_admin(id):
     form.location.data = user.location
     form.about_me.data = user.about_me
     return render_template('edit_profile.html', form=form, user=user)
+
+
+@main.route('/post/<int:id>')
+def post(id):
+    post = Post.query.get_or_404(id)
+    return render_template('post.html', posts=[post])
+
+
+@main.route('/edit/<int:id>', methods=['GET', 'POST'])
+@login_required
+def edit(id):
+    post = Post.query.get_or_404(id)
+    if current_user != post.author and not current_user.can(Permission.ADMIN):
+        abort(403)
+    form = PostForm()
+    if form.validate_on_submit():
+        post.body = form.body.data
+        db.session.add(post)
+        db.session.commit()
+        flash('The post has been updated.')
+        return redirect(url_for('.post', id=post.id))
+    form.body.data = post.body
+    return render_template('edit_profile.html', form=form)
+
+
+@main.route('/follow/<username>')
+@login_required
+@permission_required(Permission.FOLLOW)
+def follow(username):
+    user = User.query.filter_by(username=username).first()
+    if user is None:
+        flash('Invalid user.')
+        return redirect(url_for('.index'))
+
+    if current_user.is_following(user):
+        flash('You are already following this user.')
+        return redirect(url_for('.user', username=username))
+    current_user.follow(user)
+    db.session.commit()
+    flash('You are now following %s' % username)
+    return redirect(url_for('.user', username=username))
+
+
+@main.route('/followers/<username>')
+def followers(username):
+    user = User.query.filter_by(username=username).first()
+    if user is None:
+        flash('Invalid user.')
+        return redirect(url_for('.index'))
+    page = request.args.get('page', 1, type=int)
+    pagination = user.followers.paginate(
+        page, per_page=current_app.config['FALSKY_FOLLOWERS_PER_PAGE'],
+        error_out=False
+    )
+    follows = [{'user': item.follower, 'timestamp': item.timestamp}
+               for item in pagination.items]
+    return render_template('followes.html', user=user,
+                           title="Followers of",
+                           endpoint='.followers',
+                           pagination=pagination,
+                           follows=follows)
+
+
+@main.route('/unfollow/<username>')
+def unfollow(username):
+    pass
+
+
+@main.route('/followed_by/<username>')
+def followed_by(username):
+    pass
+
+
+@main.route('/followed')
+@login_required
+def show_followed():
+    resp = make_response(redirect(url_for('.index')))
+    resp.set_cookie('show_followed', '1', max_age=30 * 24 * 60 * 60)  # 30 days
+    return resp
+
+
+@main.route('/all')
+@login_required
+def show_all():
+    resp = make_response(redirect(url_for('.index')))
+    resp.set_cookie('show_followed', '', max_age=30 * 24 * 60 * 60)  # 30 days
+    return resp

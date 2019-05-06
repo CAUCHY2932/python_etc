@@ -27,7 +27,7 @@ moment = Moment()
 db = SQLAlchemy()
 login_manager = LoginManager()
 login_manager.login_view = 'auth.login'
-pagedown= PageDown()
+pagedown = PageDown()
 
 
 def create_app(config_name):

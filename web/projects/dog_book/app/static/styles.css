@@ -30,9 +30,15 @@ div.post-date {
 }
 div.post-author {
     font-weight: bold;
+    margin-left: 50px;
 }
+
+div.post-body {
+    margin-left: 50px;
+}
+
 div.post-thumbnail {
-    position: absolute;
+    /*position: absolute;*/
 }
 div.post-content {
     margin-left: 48px;
