@@ -42,7 +42,7 @@ from . import views
 
 ## api
 
-from . import api
+# from . import api
 
 # charts
 # from .charts_module import models, views

@@ -56,18 +56,32 @@ AUTH_USER_REGISTRATION = True
 # RECAPTCHA_PUBLIC_KEY = 'GOOGLE PUBLIC KEY FOR RECAPTCHA'
 # RECAPTCHA_PRIVATE_KEY = 'GOOGLE PRIVATE KEY FOR RECAPTCHA'
 # Config for Flask-Mail necessary for user registration
-MAIL_SERVER = 'smtp.126.com'
+
+
+## 126 settings
+# MAIL_SERVER = 'smtp.126.com'
+# MAIL_USE_TLS = False
+# MAIL_USERNAME = 'youngzData'
+# MAIL_PASSWORD = 'win2018ustc'
+# MAIL_DEFAULT_SENDER = 'haochen2932@126.com'
+# RECAPTCHA_PUBLIC_KEY = "6LedRP0SAAAAAOF03Nsv_ny2NzOF_Dthe_Xn269v"
+# RECAPTCHA_PRIVATE_KEY = "6LedRP0SAAAAAPnsdEKgj5VU1QbFcPv7mO8cW0So"
+# MAIL_PORT = 465
+# MAIL_USE_SSL = True
+
+
+# qq settings
+
+MAIL_SERVER = 'smtp.qq.com'
 MAIL_USE_TLS = False
-MAIL_USERNAME = 'youngzData'
-MAIL_PASSWORD = 'win2018ustc'
-MAIL_DEFAULT_SENDER = 'haochen2932@126.com'
+# MAIL_PORT = 587
+MAIL_USERNAME = '2986047292@qq.com'
+MAIL_PASSWORD = 'atqffzckeupsdeic'
+MAIL_DEFAULT_SENDER = '2986047292@qq.com'
 RECAPTCHA_PUBLIC_KEY = "6LedRP0SAAAAAOF03Nsv_ny2NzOF_Dthe_Xn269v"
 RECAPTCHA_PRIVATE_KEY = "6LedRP0SAAAAAPnsdEKgj5VU1QbFcPv7mO8cW0So"
-MAIL_PORT = 143
-
-# iamp 143
-# ssl 993
-
+MAIL_PORT = 465
+MAIL_USE_SSL = True
 
 
 
@@ -120,7 +134,10 @@ IMG_UPLOAD_URL = "/static/uploads/"
 # these are located on static/appbuilder/css/themes
 # you can create your own and easily use them placing them on the same dir structure to override
 # APP_THEME = "bootstrap-theme.css"  # default bootstrap
-# APP_THEME = "cerulean.css"
+
+
+APP_THEME = "cerulean.css"
+
 # APP_THEME = "amelia.css"
 
 # APP_THEME = "cosmo.css"
@@ -133,14 +150,20 @@ IMG_UPLOAD_URL = "/static/uploads/"
 # APP_THEME = "journal.css"
 # APP_THEME = "readable.css"
 # APP_THEME = "simplex.css"
+
+
 # APP_THEME = "slate.css"
+
+
 # APP_THEME = "spacelab.css"
+
+
 # APP_THEME = "united.css"
 # APP_THEME = "yeti.css"
 
 
 
-FAB_API_SWAGGER_UI = True
+# FAB_API_SWAGGER_UI = True
 """
 
 http://localhost:5000/swaggerview/v1
