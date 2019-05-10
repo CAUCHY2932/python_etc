@@ -41,7 +41,6 @@ class MyView(BaseView):
                                     param1=param1)
 
 
-appbuilder.add_view(MyView, "Method1", category='My View')
-appbuilder.add_link("Method2", href='/myview/method2/john', category='My View')
-appbuilder.add_link("Method3", href='/myview/method3/john', category='My View')
-# appbuilder.add_link("Method3", href='/myview/method3/john', category='My View')
+appbuilder.add_view(MyView, "方法1", category='导航栏')
+appbuilder.add_link("方法2", href='/myview/method2/john', category='导航栏')
+appbuilder.add_link("方法3", href='/myview/method3/john', category='导航栏')

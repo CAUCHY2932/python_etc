@@ -32,7 +32,7 @@ from . import views
 
 # menu views
 
-# from . import menu_views
+from . import menu_views
 
 
 # contact views
