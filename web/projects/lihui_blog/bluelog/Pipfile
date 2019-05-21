@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+coverage = "*"
+watchdog = "*"
+"flake8" = "*"
+faker = "*"
+
+[packages]
+flask = "*"
+flask-ckeditor = "*"
+flask-mail = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+flask-moment = "*"
+python-dotenv = "*"
+bootstrap-flask = "*"
+flask-login = "*"
+flask-debugtoolbar = "*"
+gunicorn = "*"
+flask-migrate = "*"
