@@ -1,7 +1,0 @@
-{
-        "navigationBarTitleText": "图书",
-        "navigationBarBackgroundColor": "#f8f8f8",  
-        "usingComponents": {
-                "book-cmpt": "/components/book-detail/book-detail-cmpt"
-        }
-}

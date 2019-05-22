@@ -1,6 +1,0 @@
-
-<view class='detail'>
-  <book-cmpt isbn='{{isbn}}'>
-  </book-cmpt>
-  <!-- <button class='fixed-btn1' type="default" bind:tap="onTap" size="default">添加到赠送清单</button> -->
-</view>

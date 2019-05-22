@@ -1,3 +1,0 @@
-surprise
-pip install scikit-surprise
-

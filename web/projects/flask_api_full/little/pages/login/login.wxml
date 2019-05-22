@@ -1,9 +1,0 @@
-<!--pages/login/login.wxml-->
-<view class='login'>
-  <form bind:submit="onSubmit">
-      <input name="email" class='email' type="text"  placeholder="输入邮箱"  />
-      <input class='password' name="password" type="password"  placeholder="输入密码" />
-      <button class='submit' type="default" form-type="submit" size="defaultSize"  plain="plain"  hover-class="defaultTap">登录</button>
-  </form>
-</view>
-

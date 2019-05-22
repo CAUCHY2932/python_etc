@@ -1,6 +1,0 @@
-flask
-
-wtforms
-
-flask-sqlalchemy
-cymysql
