@@ -12,5 +12,5 @@ import requests
 def get_content(url, json=True):
     resp = requests.get(url)
     if resp.status_code == 200:
-        return resp.json if json else resp.text
+        return resp.json() if json else resp.text
     return {} if json else ''
