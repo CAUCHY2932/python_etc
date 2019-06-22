@@ -2,6 +2,17 @@
 
 some topic about python
 
+## 仓库结构划分
+如果粗略按照基本、进阶、高级主题这样进行结构划分，问题很大。
+所以我采取先按主题领域分解，最后再进行进阶主题的分解。
+> 参考python核心编程，python科学手册，利用python进行数据分析，廖雪峰
+>
+> 传智播客
+
+## 生成方法
+
+先使用jupyter撰写文档，然后生成同名markdown
+
 ## base
 
 Python的基本应用
@@ -41,3 +52,14 @@ leetcode刷题记录
 ## web
 
 web开发相关内容
+
+
+## 其他
+包含所有kit内容
+
+## 参考
+python核心编程
+python学习手册
+利用python进行数据分析
+python官方文档
+
