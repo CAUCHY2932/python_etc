@@ -13,7 +13,7 @@ order = "8"
 
 def request_from_gaode(addr):
     payload = {
-        "key": "e034127c2c2e574c2711591973e020c6",
+        "key": "",
         "output": "json",
         "address": addr,
     }
