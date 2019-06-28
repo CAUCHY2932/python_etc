@@ -6,9 +6,12 @@
     :license: None, see LICENSE for more details.
 """
 
-KEY_1 = ''
+KEY_1 = '56ed50901b605203c80ea53ce7c4de43'
 KEY_2 = ''
-BASE_GAODE_URL = ""
+BASE_GAODE_URL = "https://restapi.amap.com/v3/geocode/geo"
 BAIDU_AK = ''
 PROCESS_NUM = 3
 CHUNK_SIZE = 100
+SOURECE_FILE_PATH = 'D:/0621/before_2018.csv'
+TARGET_PATH = './new_file'
+ERROR_FILE_PATH = './error_file'
