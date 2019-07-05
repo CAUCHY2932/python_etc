@@ -13,8 +13,9 @@ from lxml import etree
 import logging
 import re
 import sys
+import config
 
-keyword = 'java'
+keyword = config.KEYWORD
 # define the log file, file mode and logging level
 # logging.basicConfig(filename='example2.log', filemode="w", level=logging.INFO)
 logging.basicConfig(filename='{}.log'.format(keyword), level = logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
