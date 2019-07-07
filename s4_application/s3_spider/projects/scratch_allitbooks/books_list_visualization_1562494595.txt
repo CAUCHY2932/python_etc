@@ -1,0 +1,249 @@
+http://file.allitebooks.com/20181125/Data Analysis and Visualization Using Python.pdf
+http://file.allitebooks.com/20181125/Data Analysis and Visualization Using Python.epub
+http://file.allitebooks.com/20180523/Pro Data Visualization using R and JavaScript.pdf
+http://file.allitebooks.com/20180329/Advanced Audio Visualization Using ThMAD.pdf
+http://file.allitebooks.com/20171205/Audio Visualization Using ThMAD.pdf
+http://file.allitebooks.com/20171104/Interactive Data Visualization for the Web, 2nd Edition.pdf
+http://file.allitebooks.com/20170812/Learning d3.js Data Visualization, 2nd Edition.pdf
+http://file.allitebooks.com/20170510/Mastering QlikView Data Visualization.pdf
+http://file.allitebooks.com/20170423/Data Visualization for Oracle Business Intelligence 11g.pdf
+http://file.allitebooks.com/20170419/SPSS Statistics for Data Analysis and Visualization.pdf
+http://file.allitebooks.com/20170409/Mathematica Data Visualization.pdf
+http://file.allitebooks.com/20170113/Source Code Analytics With Roslyn and JavaScript Data Visualization.pdf
+http://file.allitebooks.com/20161210/High Impact Data Visualization in Excel with Power View, 3D Maps, Get & Transform and Power BI, 2nd Edition.pdf
+http://file.allitebooks.com/20161129/Data Visualization in Excel 2016, 2nd Edition.pdf
+http://file.allitebooks.com/20161029/JavaScript and jQuery for Data Analysis and Visualization.pdf
+http://file.allitebooks.com/20160903/Mastering Python Data Visualization.pdf
+http://file.allitebooks.com/20160807/Beginning Python Visualization.pdf
+http://file.allitebooks.com/20160611/Learning IPython for Interactive Computing and Data Visualization, Second Edition.pdf
+http://file.allitebooks.com/20160607/SketchUp 7.1 for Architectural Visualization.pdf
+http://file.allitebooks.com/20160331/Designing Data Visualizations.pdf
+http://file.allitebooks.com/20160303/Social Data Visualization with HTML5 and JavaScript.pdf
+http://file.allitebooks.com/20151221/Data Visualization with D3.js Cookbook.pdf
+http://file.allitebooks.com/20151216/Python Data Visualization Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20151206/Building Responsive Data Visualization for the Web.pdf
+http://file.allitebooks.com/20151119/SAS Programming and Data Visualization Techniques.pdf
+http://file.allitebooks.com/20150930/OpenGL Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20150919/Online Social Media Analysis and Visualization.pdf
+http://file.allitebooks.com/20150909/Mastering Gephi Network Visualization.pdf
+http://file.allitebooks.com/20150823/Mapping and Visualization with SuperCollider.pdf
+http://file.allitebooks.com/20150811/Data Visualization with D3 and AngularJS.pdf
+http://file.allitebooks.com/20150731/IPython Interactive Computing and Visualization Cookbook.pdf
+http://file.allitebooks.com/20150728/Interactive Data Visualization- Foundations, Techniques, and Applications.pdf
+http://file.allitebooks.com/20150723/Data Visualization with JavaScript.pdf
+http://file.allitebooks.com/20150708/HTML5 Graphing - Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20150706/Network Graph Analysis and Visualization with Gephi.pdf
+http://file.allitebooks.com/20150704/Tableau Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20150627/Google Visualization API Essentials.pdf
+http://file.allitebooks.com/20150625/SketchUp 2014 for Architectural Visualization, 2nd Edition.pdf
+http://file.allitebooks.com/20150625/Unity for Architectural Visualization.pdf
+http://file.allitebooks.com/20150615/Graph Analysis and Visualization.pdf
+http://file.allitebooks.com/20150514/Beginning Python Visualization, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Learning Python Data Visualization.pdf
+http://file.allitebooks.com/20150514/Learning IPython for Interactive Computing and Data Visualization.pdf
+http://file.allitebooks.com/20150514/Python Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20190508/Python Crash Course, 2nd Edition.pdf
+http://file.allitebooks.com/20190506/Python Crash Course, 2nd Edition.epub
+http://file.allitebooks.com/20190508/Practical Oracle JET.pdf
+http://file.allitebooks.com/20190508/Practical Oracle JET.epub
+http://file.allitebooks.com/20190420/OpenLayers Cookbook.epub
+http://file.allitebooks.com/20190418/Learn RStudio IDE.pdf
+http://file.allitebooks.com/20190418/Learn RStudio IDE.epub
+http://file.allitebooks.com/20190414/Unreal for Mobile and Standalone VR.pdf
+http://file.allitebooks.com/20190414/Unreal for Mobile and Standalone VR.epub
+http://file.allitebooks.com/20190211/Tableau For Dummies.pdf
+http://file.allitebooks.com/20190203/MATLAB Machine Learning Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20190203/MATLAB Machine Learning Recipes, 2nd Edition.epub
+http://file.allitebooks.com/20190104/Nagios, 2nd Edition.pdf
+http://file.allitebooks.com/20181225/Numerical Python, 2nd Edition.pdf
+http://file.allitebooks.com/20181225/Numerical Python, 2nd Edition.epub
+http://file.allitebooks.com/20181210/Mining the Social Web, 3rd Edition.pdf
+http://file.allitebooks.com/20181201/Learn R for Applied Statistics.pdf
+http://file.allitebooks.com/20181201/Learn R for Applied Statistics.epub
+http://file.allitebooks.com/20181129/Raspbian OS Programming with the Raspberry Pi.pdf
+http://file.allitebooks.com/20181129/Raspbian OS Programming with the Raspberry Pi.epub
+http://file.allitebooks.com/20180928/Python Data Analytics, 2nd Edition.pdf
+http://file.allitebooks.com/20180928/Python Data Analytics, 2nd Edition.epub
+http://file.allitebooks.com/20180909/Visual Design of GraphQL Data.pdf
+http://file.allitebooks.com/20180909/Visual Design of GraphQL Data.epub
+http://file.allitebooks.com/20180807/Exam Ref 70-779 Analyzing and Visualizing Data with Microsoft Excel.epub
+http://file.allitebooks.com/20180623/Python Graphics.pdf
+http://file.allitebooks.com/20180620/Network Security Through Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20180512/Data Science Fundamentals for Python and MongoDB.pdf
+http://file.allitebooks.com/20180308/Complete Guide to Open Source Big Data Stack.pdf
+http://file.allitebooks.com/20180124/Mastering AutoCAD Civil 3D 2009.pdf
+http://file.allitebooks.com/20171219/Oracle Business Intelligence with Machine Learning.pdf
+http://file.allitebooks.com/20171210/Pro Power BI Desktop, 2nd Edition.pdf
+http://file.allitebooks.com/20171129/Introducing ArcGIS API 4 for JavaScript.pdf
+http://file.allitebooks.com/20171129/Introduction to MATLAB for Engineers and Scientists.pdf
+http://file.allitebooks.com/20171113/Introduction to Scilab.pdf
+http://file.allitebooks.com/20171009/Python for Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20170928/Learning TensorFlow.pdf
+http://file.allitebooks.com/20170907/JavaFX 9 by Example, 3rd Edition.pdf
+http://file.allitebooks.com/20170715/Business in Real-Time Using Azure IoT and Cortana Intelligence Suite.pdf
+http://file.allitebooks.com/20170712/Exploring Data with RapidMiner.pdf
+http://file.allitebooks.com/20170616/The Blender Python API.pdf
+http://file.allitebooks.com/20170514/QlikView Essentials.pdf
+http://file.allitebooks.com/20170505/Arduino BLINK Blueprints.pdf
+http://file.allitebooks.com/20170421/Monitoring Hadoop.pdf
+http://file.allitebooks.com/20170418/Mapbox Cookbook.pdf
+http://file.allitebooks.com/20170416/TIBCO Spotfire A Comprehensive Primer.pdf
+http://file.allitebooks.com/20170406/R Graph Essentials.pdf
+http://file.allitebooks.com/20170322/The Book of R.pdf
+http://file.allitebooks.com/20170320/Python Data Science Handbook.pdf
+http://file.allitebooks.com/20170317/Kendo UI Cookbook.pdf
+http://file.allitebooks.com/20170310/Beginning Data Science in R.pdf
+http://file.allitebooks.com/20170307/Mastering IPython 4.0.pdf
+http://file.allitebooks.com/20170304/Data Science For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20170301/Beginning Power BI.pdf
+http://file.allitebooks.com/20170228/Data Visualisation with R.pdf
+http://file.allitebooks.com/20170214/Practical ELK Stack.pdf
+http://file.allitebooks.com/20170213/Bioinformatics with R Cookbook.pdf
+http://file.allitebooks.com/20170129/Data Analysis with STATA.pdf
+http://file.allitebooks.com/20170122/Mastering Python Data Analysis.pdf
+http://file.allitebooks.com/20170111/Learning OMNeT.pdf
+http://file.allitebooks.com/20170102/Building Arduino Projects for the Internet of Things 2016.pdf
+http://file.allitebooks.com/20161230/Pro Hadoop Data Analytics.pdf
+http://file.allitebooks.com/20161224/Pro Tableau.pdf
+http://file.allitebooks.com/20161224/Machine Learning Using R.pdf
+http://file.allitebooks.com/20161224/Create Web Charts with D3.pdf
+http://file.allitebooks.com/20161205/Essential Excel 2016.pdf
+http://file.allitebooks.com/20161130/Rapid Graphs with Tableau 8.pdf
+http://file.allitebooks.com/20161123/R Data Mining Blueprints.pdf
+http://file.allitebooks.com/20161011/Practical Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20161009/Spark for Data Science.pdf
+http://file.allitebooks.com/20160909/R Data Mining Projects.pdf
+http://file.allitebooks.com/20160903/GPU Pro 7.pdf
+http://file.allitebooks.com/20160824/Learning Pentaho CTools.pdf
+http://file.allitebooks.com/20160821/Practical D3.js.pdf
+http://file.allitebooks.com/20160803/R Graph Essentials.pdf
+http://file.allitebooks.com/20160802/Data Clustering in C++.pdf
+http://file.allitebooks.com/20160728/Python Data Analysis Cookbook.rar
+http://file.allitebooks.com/20160708/Learning R for Geospatial Analysis.pdf
+http://file.allitebooks.com/20160701/Web Audio API.pdf
+http://file.allitebooks.com/20160630/Jumpstart Tableau.pdf
+http://file.allitebooks.com/20160619/Building Arduino Projects for the Internet of Things.pdf
+http://file.allitebooks.com/20160612/Reactive Programming with RxJS.pdf
+http://file.allitebooks.com/20160611/Mastering SciPy.pdf
+http://file.allitebooks.com/20160604/SAP BusinessObjects Dashboards 4.1 Cookbook.pdf
+http://file.allitebooks.com/20160530/ArcGIS for JavaScript developers by Example.pdf
+http://file.allitebooks.com/20160527/Pro Power BI Desktop.pdf
+http://file.allitebooks.com/20160520/Oracle ADF Enterprise Application Development Made Simple.pdf
+http://file.allitebooks.com/20160513/Mastering QlikView.pdf
+http://file.allitebooks.com/20160509/QGIS 2 Cookbook.pdf
+http://file.allitebooks.com/20160503/RStudio for R Statistical Computing Cookbook.pdf
+http://file.allitebooks.com/20160426/Applied Microsoft Business Intelligence.pdf
+http://file.allitebooks.com/20160426/Big Data Forensics - Learning Hadoop Investigations.pdf
+http://file.allitebooks.com/20160425/Learning D3.js Mapping.pdf
+http://file.allitebooks.com/20160425/Mastering Social Media Mining with R.pdf
+http://file.allitebooks.com/20160411/Git in Practice.pdf
+http://file.allitebooks.com/20160402/Internet of Things with the Arduino Yun.pdf
+http://file.allitebooks.com/20160331/Getting Started with D3.pdf
+http://file.allitebooks.com/20160326/Python Data Analysis.pdf
+http://file.allitebooks.com/20160313/Using R for Introductory Statistics, 2nd Edition.pdf
+http://file.allitebooks.com/20160310/Excel Dashboards and Reports for Dummies, 3th Edition.pdf
+http://file.allitebooks.com/20160302/QlikView Scripting.pdf
+http://file.allitebooks.com/20160225/Pentaho for Big Data Analytics.pdf
+http://file.allitebooks.com/20160224/Google SketchUp for Game Design.pdf
+http://file.allitebooks.com/20160220/FusionCharts Beginners Guide- The Official Guide for FusionCharts Suite.pdf
+http://file.allitebooks.com/20160207/Scala for Data Science.pdf
+http://file.allitebooks.com/20160202/Blender 3D 2.49 Incredible Machines.pdf
+http://file.allitebooks.com/20160129/Splunk Developer's Guide, Second Edition.rar
+http://file.allitebooks.com/20160104/Learning ELK Stack.rar
+http://file.allitebooks.com/20160104/D3.js By Example.pdf
+http://file.allitebooks.com/20160103/Scala Data Analysis Cookbook.pdf
+http://file.allitebooks.com/20160102/Python Crash Course.pdf
+http://file.allitebooks.com/20160102/Game Data Analysis - Tools and Methods.pdf
+http://file.allitebooks.com/20151230/Learning Qlik Sense The Official Guide, Second Edition.pdf
+http://file.allitebooks.com/20151230/Spark for Python Developers.pdf
+http://file.allitebooks.com/20151229/WebGL Programming Guide.pdf
+http://file.allitebooks.com/20151226/Microsoft Visio 2016 Step By Step.pdf
+http://file.allitebooks.com/20151226/Python for Data Science For Dummies.pdf
+http://file.allitebooks.com/20151223/Service Oriented Architecture- An Integration Blueprint.pdf
+http://file.allitebooks.com/20151222/GPU Pro 6.pdf
+http://file.allitebooks.com/20151222/Getting Started with Lumion 3D.pdf
+http://file.allitebooks.com/20151216/Qlik Sense Cookbook.pdf
+http://file.allitebooks.com/20151215/Tableau Dashboard Cookbook.pdf
+http://file.allitebooks.com/20151214/Excel 2007 Dashboards and Reports For Dummies.pdf
+http://file.allitebooks.com/20151212/Machine Learning.pdf
+http://file.allitebooks.com/20151211/Creating Data Stories with Tableau Public.pdf
+http://file.allitebooks.com/20151210/Infographics For Dummies.pdf
+http://file.allitebooks.com/20151210/D3.js In Action.pdf
+http://file.allitebooks.com/20151208/Building Integrated Business Intelligence Solutions with SQL Server 2008 R2 - Office 2010.pdf
+http://file.allitebooks.com/20151207/Data Science at the Command Line.pdf
+http://file.allitebooks.com/20151201/Predictive Analytics with Microsoft Azure Machine Learning, 2nd Edition.pdf
+http://file.allitebooks.com/20151201/Beginning R, 2nd Edition.pdf
+http://file.allitebooks.com/20151127/R in a Nutshell.pdf
+http://file.allitebooks.com/20151127/Python Playground.pdf
+http://file.allitebooks.com/20151125/QlikView Unlocked.pdf
+http://file.allitebooks.com/20151122/Effective Computation in Physics.pdf
+http://file.allitebooks.com/20151116/Kibana Essentials.pdf
+http://file.allitebooks.com/20151115/Game Analytics.pdf
+http://file.allitebooks.com/20151105/Dashboards for Excel.pdf
+http://file.allitebooks.com/20151103/Clearly Visual Basic, 2nd Edition.pdf
+http://file.allitebooks.com/20151029/Net Works Case Studies in Web Art and Design.pdf
+http://file.allitebooks.com/20151028/Data Manipulation with R.pdf
+http://file.allitebooks.com/20151023/Agent-Based Modeling and Simulation with Swarm.pdf
+http://file.allitebooks.com/20151012/Objects First with Java, 5th Edition.pdf
+http://file.allitebooks.com/20151005/Learning Predictive Analytics with R.pdf
+http://file.allitebooks.com/20150930/R Graphs Cookbook Second Edition.pdf
+http://file.allitebooks.com/20150930/Mastering Python for Data Science.pdf
+http://file.allitebooks.com/20150924/Business Intelligence with SQL Server Reporting Services.pdf
+http://file.allitebooks.com/20150923/Zabbix Cookbook.pdf
+http://file.allitebooks.com/20150915/Pentaho Business Analytics Cookbook.pdf
+http://file.allitebooks.com/20150912/Mastering D3.js.pdf
+http://file.allitebooks.com/20150912/Lumion 3D Cookbook.pdf
+http://file.allitebooks.com/20150912/Learning jqPLot.pdf
+http://file.allitebooks.com/20150910/Data Analytics.pdf
+http://file.allitebooks.com/20150901/Introduction to Computation and Programming Using Python.pdf
+http://file.allitebooks.com/20150830/Designing Information.pdf
+http://file.allitebooks.com/20150830/TIBCO Spotfire for Developers.pdf
+http://file.allitebooks.com/20150823/Managing Your Biological Data with Python.pdf
+http://file.allitebooks.com/20150811/Python Data Science Essentials.pdf
+http://file.allitebooks.com/20150811/Predictive Analytics Using Rattle and Qlik Sense.pdf
+http://file.allitebooks.com/20150811/OpenGL ES 3dot0 Cookbook.pdf
+http://file.allitebooks.com/20150811/Multimedia Programming Using MaxslashMSP and TouchDesigner.pdf
+http://file.allitebooks.com/20150811/ggplot2 Essentials.pdf
+http://file.allitebooks.com/20150811/Learning SAP BusinessObjects Dashboards.pdf
+http://file.allitebooks.com/20150807/PostGIS Essentials.pdf
+http://file.allitebooks.com/20150807/Mastering matplotlib.pdf
+http://file.allitebooks.com/20150807/Apache Mahout Essentials.pdf
+http://file.allitebooks.com/20150807/Mastering Julia.pdf
+http://file.allitebooks.com/20150805/Splunk Developers Guide.pdf
+http://file.allitebooks.com/20150731/Mastering Pandas.pdf
+http://file.allitebooks.com/20150731/Lumion3D Best Practices.pdf
+http://file.allitebooks.com/20150731/Gephi Cookbook.pdf
+http://file.allitebooks.com/20150731/Creating a Data-Driven Organization.pdf
+http://file.allitebooks.com/20150731/Interactive Applications using Matplotlib.pdf
+http://file.allitebooks.com/20150721/Web Cartography- Map Design for Interactive and Mobile Devices.pdf
+http://file.allitebooks.com/20150717/Mastering R for Quantitative Finance.pdf
+http://file.allitebooks.com/20150716/QlikView for Developers Cookbook.pdf
+http://file.allitebooks.com/20150715/Instant Data Intensive Apps with pandas How-to.pdf
+http://file.allitebooks.com/20150715/Visualforce Development Cookbook.pdf
+http://file.allitebooks.com/20150704/Machine Learning With R Cookbook.pdf
+http://file.allitebooks.com/20150626/Beginning JavaScript Charts.pdf
+http://file.allitebooks.com/20150625/Mastering Lumion 3D.pdf
+http://file.allitebooks.com/20150615/Data Fluency.pdf
+http://file.allitebooks.com/20150615/Data Scientists at Work.pdf
+http://file.allitebooks.com/20150615/Excel Data Analysis For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Real-Time Analytics.pdf
+http://file.allitebooks.com/20150615/Splunk Operational Intelligence Cookbook.pdf
+http://file.allitebooks.com/20150615/Getting Started with Greenplum for Big Data Analytics.pdf
+http://file.allitebooks.com/20150615/KNIME Essentials.pdf
+http://file.allitebooks.com/20150615/Practical Data Analysis.pdf
+http://file.allitebooks.com/20150615/Data Science For Dummies.pdf
+http://file.allitebooks.com/20150615/Big Data Application Architecture Q-A.pdf
+http://file.allitebooks.com/20150615/Big Data Glossary.pdf
+http://file.allitebooks.com/20150603/Excel Dashboards and Reports For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150603/Beginning OpenOffice Calc.pdf
+http://file.allitebooks.com/20150603/Head First Excel.pdf
+http://file.allitebooks.com/20150602/Mining the Social Web.pdf
+http://file.allitebooks.com/20150523/Packet Tracer Network Simulator.pdf
+http://file.allitebooks.com/20150523/The Book of PF A No-Nonsense Guide to the OpenBSD Firewall.pdf
+http://file.allitebooks.com/20150521/Data-Driven Security.pdf
+http://file.allitebooks.com/20150518/HTML5 Canvas Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle ADF Faces Cookbook.pdf
+http://file.allitebooks.com/20150514/IPython Notebook Essentials.pdf
+http://file.allitebooks.com/20150514/Think Stats, 2nd Edition.pdf
+http://file.allitebooks.com/20150513/JavaScript Creativity.pdf
+http://file.allitebooks.com/20150425/Learning pandas.pdf

@@ -1,2 +1,17 @@
-book_list = ['java', 'python', 'vba', 'sql', 'linux', 'data structure', 'algorithm']
-KEYWORD = 'data structure'
+book_list = ['java',
+             'python',
+             'vba',
+             'sql',
+             'linux',
+             'data structure',
+             'algorithm',
+             'flask',
+             'microservice',
+             'docker',
+             'data science',
+             'pyspark',
+             'big data',
+             'visualization',
+             'data warehouse',
+             ]
+KEYWORD = 'data warehouse'
