@@ -1,0 +1,23 @@
+http://file.allitebooks.com/20150722/Perceptual Image Coding with Discrete Cosine Transform.pdf
+http://file.allitebooks.com/20190614/Think DSP.epub
+http://file.allitebooks.com/20170718/Java 9 Recipes, 3rd Edition.pdf
+http://file.allitebooks.com/20160805/An Introduction to Statistics with Python.pdf
+http://file.allitebooks.com/20160513/Transitions and Animations in CSS.pdf
+http://file.allitebooks.com/20160329/Introduction to R for Quantitative Finance.pdf
+http://file.allitebooks.com/20160323/Teaching Learning Based Optimization Algorithm.pdf
+http://file.allitebooks.com/20160316/Digital Imaging Primer.pdf
+http://file.allitebooks.com/20160316/Words and Graphs.pdf
+http://file.allitebooks.com/20151201/Fireworks Algorithm.pdf
+http://file.allitebooks.com/20151123/Image and Video Processing in the Compressed Domain.pdf
+http://file.allitebooks.com/20151028/The Design of Approximation Algorithms.pdf
+http://file.allitebooks.com/20151010/Testing and Validation of Computer Simulation Models.pdf
+http://file.allitebooks.com/20151005/Beginning R- An Introduction to Statistical Programming.pdf
+http://file.allitebooks.com/20150928/Group Search Optimization for Applications in Structural Design.pdf
+http://file.allitebooks.com/20150830/Data Structures and Algorithm Analysis in Java, 3rd Edition.pdf
+http://file.allitebooks.com/20150823/Introduction to Programming Languages.pdf
+http://file.allitebooks.com/20150814/Bayesian Networks With Examples in R.pdf
+http://file.allitebooks.com/20150731/JavaScript with Promises.pdf
+http://file.allitebooks.com/20150722/Handbook of Mathematical Methods in Imaging, 2nd edition.pdf
+http://file.allitebooks.com/20150627/Gradle Beyond the Basics.pdf
+http://file.allitebooks.com/20150514/Think Bayes.pdf
+http://file.allitebooks.com/20150425/Data Mining The Textbook.pdf

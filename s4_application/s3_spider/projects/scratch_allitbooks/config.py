@@ -13,5 +13,14 @@ book_list = ['java',
              'big data',
              'visualization',
              'data warehouse',
+             'Computer Organization',
+             'computer architecture',
+             'computer network',
+             'discrete',
+             'cryptography',
+             'information safety',
+             'linear algebra',
+             'software engineering',
+             'operating system'
              ]
-KEYWORD = 'data warehouse'
+KEYWORD = 'operating system'
