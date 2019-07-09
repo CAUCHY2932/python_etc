@@ -19,6 +19,7 @@ def create_app():
     # init and import settings
     app = Flask(__name__)
     app.config.from_object('config')
+    app.config.from_object('secure')
     # app.config.from_object('api.secure')
 
     register_bp(app)
