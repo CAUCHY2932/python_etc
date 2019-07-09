@@ -6,7 +6,7 @@
     :license: None, see LICENSE for more details.
 """
 
-KEY_1 = '56ed50901b605203c80ea53ce7c4de43'
+KEY_1 = ''
 KEY_2 = ''
 BASE_GAODE_URL = "https://restapi.amap.com/v3/geocode/geo"
 BAIDU_AK = ''
