@@ -6,6 +6,10 @@
     :license: None, see LICENSE for more details.
 """
 from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+
+
+db = SQLAlchemy()
 
 
 def create_app():
@@ -30,4 +34,4 @@ def register_bp(app):
 
 
 def register_plugins(app):
-    pass
+    db.init_app(app)
