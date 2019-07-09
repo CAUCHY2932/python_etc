@@ -115,3 +115,6 @@ venv.bak/
 /dataAna/datasets
 
 /secure.py
+
+
+/s6_dev/api_single/secure.py

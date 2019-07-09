@@ -1,0 +1,3 @@
+http://file.allitebooks.com/20151216/Essential SQLAlchemy, 2nd Edition.pdf
+http://file.allitebooks.com/20151216/Flask Blueprints.pdf
+http://file.allitebooks.com/20150731/Instant Flask Web Development.pdf
