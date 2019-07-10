@@ -50,3 +50,6 @@ class Activity(db.Model):
     updated_at = db.Column(db.TIMESTAMP)
     product_group_id = db.Column(db.BigInteger)
     is_deleted = db.Column(db.Integer)
+
+    def keys(self):
+        return self.fields

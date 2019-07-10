@@ -6,22 +6,16 @@
     :license: None, see LICENSE for more details.
 """
 
-from flask import Blueprint
+from flask import Blueprint, jsonify
 from sqlalchemy import and_
 
 from .model import Employee, Activity
 
-
 main = Blueprint('main', __name__)
 
 
-# @main.route('/<userid>')
-# def index(userid):
-#     return 'userid is {}'.format(userid)
-
-@main.route('/<userid>')
+@main.route('/line_chart/<userid>')
 def index(userid):
-
     # 确定当前用户
     current_user = Employee.query.filter_by(id=userid).first()
     # name = current_user.name
@@ -51,9 +45,24 @@ def index(userid):
     random_gen = Employee.query.filter(Employee.id.in_(ids))
 
     name_list = [x.name for x in random_gen]
-    return 'have query {} records, username is \n{}'.format(len(name_list), name_list)
+    print(name_list)
+    xiashu = [x for x in xiashu]
+
+    start_time = ''
+    end_time = ''
+
+    demo = Activity.query.filter(
+        and_(Activity.created_at.between(start_time, end_time))).groupby(Activity.created_at).all()
+
+    demo_len = len(demo)
+    # return 'have query {} records, username is \n{}'.format(len(name_list), name_list)
+    return jsonify({
+        'name': name_list,
+        'code': 200
+    })
 
 
-# books = session.query(Book) \
-#         .filter(Book.id.in_([1, 3, 5])) \
-#         .all()
+@main.route('/pine_chart/<userid>')
+def sum(userid):
+    pass
+
