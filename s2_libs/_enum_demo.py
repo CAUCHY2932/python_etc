@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class Color(Enum):
     Yellow = 1
     Green = 2
@@ -10,5 +11,6 @@ class Color(Enum):
 # if 1 in color:
 #     print('hello')
 
-for i in Color.value:
-    print(i)
+# for i in Color.value:
+#     print(i)
+print(Color)
