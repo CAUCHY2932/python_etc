@@ -1,5 +1,37 @@
 # -*- coding: utf-8 -*-
 import datetime
+import calendar
+import time
+
+
+def get_month_start_and_end():
+    """获得月初和月末"""
+    day_now = time.localtime()
+    day_begin = '%d-%02d-01' % (day_now.tm_year, day_now.tm_mon)  # 月初肯定是1号
+    # 得到本月的天数 第一返回为月第一日为星期几（0-6）, 第二返回为此月天数
+    _, monthRange = calendar.monthrange(day_now.tm_year, day_now.tm_mon)
+    day_end = '%d-%02d-%02d' % (day_now.tm_year, day_now.tm_mon, monthRange)
+    print('月初日期为：', day_begin, '月末日期为：', day_end)
+
+
+def get_now_time():
+    import time
+    now = time.strftime('%Y.%m.%d %H:%M:%S', time.localtime(time.time()))
+    return now
+
+
+def get_test():
+    import calendar
+    import time
+
+    day_now = time.localtime()
+    # 月初肯定是1号
+    day_begin = '%d-%02d-01 00:00:00' % (day_now.tm_year, day_now.tm_mon)
+    # 得到本月的天数 第一返回为月第一日为星期几（0-6）, 第二返回为此月天数
+    _, monthRange = calendar.monthrange(day_now.tm_year, day_now.tm_mon)
+    day_end = '%d-%02d-%02d 24:00:00' % (day_now.tm_year,
+                                         day_now.tm_mon, monthRange)
+    print(day_begin, day_end)
 
 
 def get_current_year():
@@ -9,11 +41,13 @@ def get_current_year():
     year = now.year
     return year
 
+
 def get_current_time():
     """获取当前时间
     返回形如 2019-09-01 00:44:17.260009 的日期"""
     now = datetime.datetime.now()
     return now
+
 
 def get_delta_date(d):
     """获取距离当前时间的时间差，以天为单位，如果求过去的时间，取负值
@@ -33,7 +67,7 @@ def funcname(self, parameter_list):
 
 
 class TimeHelper:
-    
+
     @classmethod
     def acquire_time_series(cls, time_level='day', time_range=12):
         """
@@ -69,7 +103,8 @@ class TimeHelper:
         now = datetime.datetime.now()
         if time_level == 'day':
             now_time = now.strftime('%Y-%m-%d')
-            start_time = (now - datetime.timedelta(days=timedelta-1)).strftime("%Y-%m-%d")
+            start_time = (now - datetime.timedelta(days=timedelta-1)
+                          ).strftime("%Y-%m-%d")
         elif time_level == 'month':
             if now.month == 12:
                 start_time = '{0}-{1:0>2}'.format(now.year, 1)
