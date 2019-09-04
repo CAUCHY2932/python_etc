@@ -16,8 +16,8 @@ def changeSingle(fileName, suffixPre, suffixAfter):
     partion = os.path.splitext(fileName)
     print(partion)
 
-    if partion[1] == '.'+suffixPre:
-        nameNew = partion[0]+'.'+suffixAfter
+    if partion[1] == '.' + suffixPre:
+        nameNew = partion[0] + '.' + suffixAfter
 
 
 def changeFileName():
@@ -73,6 +73,7 @@ def dup(fd):
 def du2(fd, fd2):
     # 将一个文件描述符fd复制到另一个fd2
     os.du2(fd, fd2)
+
 
 def fchdir(fd):
     # 通过文件描述符改变当前工作目录

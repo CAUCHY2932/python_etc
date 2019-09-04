@@ -25,7 +25,8 @@ def read_file_4(file_name, block_size=1024):
         while chunk:
             yield chunk
             chunk = f.read(block_size)
-        return 
+        return
+
 
 """
 

@@ -1,5 +1,6 @@
 import qrcode
 import zxing
+
 """
 需要库
 pip install pillow

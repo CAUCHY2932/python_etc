@@ -7,6 +7,7 @@ def log(func):
     def wrapper(*args, **kw):
         print('call %s():' % func.__name__)
         return func(*args, **kw)
+
     return wrapper
 
 
@@ -18,6 +19,7 @@ def deco2(f):
         other = ''
         print('do somethings')
         return rv, other
+
     return wrapper
 
 
@@ -27,5 +29,7 @@ def log2(text):
         def wrapper(*args, **kw):
             print('%s %s():' % (text, func.__name__))
             return func(*args, **kw)
+
         return wrapper
+
     return decorator

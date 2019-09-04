@@ -16,5 +16,6 @@ class MyResource:
     def printStr(self):
         print('helloworld!')
 
+
 with MyResource() as mr:
     mr.printStr()

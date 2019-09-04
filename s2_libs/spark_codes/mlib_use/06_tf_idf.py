@@ -1,10 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-    :author: young
-    :DATE: 2019/5/14 14:24
-    :copyright: © 2019 young <haochen2932@foxmail.com>
-    :license: None, see LICENSE for more details.
-"""
 
 from pyspark.ml.feature import HashingTF, IDF, Tokenizer
 from pyspark.shell import spark
