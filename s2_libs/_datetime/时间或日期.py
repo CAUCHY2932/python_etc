@@ -2,9 +2,9 @@
 
 '''获取当前日期前后N天或N月的日期'''
 
-from time import strftime, localtime
-from datetime import timedelta, date
 import calendar
+from datetime import timedelta, date
+from time import strftime, localtime
 
 year = strftime("%Y", localtime())
 mon = strftime("%m", localtime())
@@ -25,7 +25,7 @@ def todaystr():
     '''
     get date string, date format="YYYYMMDD"
     '''
-    return year+mon+day
+    return year + mon + day
 
 
 def datetime():
@@ -40,7 +40,7 @@ def datetimestr():
     get datetime string
     date format="YYYYMMDDHHMMSS"
     '''
-    return year+mon+day+hour+min+sec
+    return year + mon + day + hour + min + sec
 
 
 def get_day_of_day(n=0):
@@ -49,11 +49,11 @@ def get_day_of_day(n=0):
     if n<0,date is less than today
     date format = "YYYY-MM-DD"
     '''
-    if(n < 0):
+    if (n < 0):
         n = abs(n)
-        return date.today()-timedelta(days=n)
+        return date.today() - timedelta(days=n)
     else:
-        return date.today()+timedelta(days=n)
+        return date.today() + timedelta(days=n)
 
 
 def get_days_of_month(year, mon):
@@ -69,8 +69,8 @@ def get_firstday_of_month(year, mon):
     date format = "YYYY-MM-DD" 
     '''
     days = "01"
-    if(int(mon) < 10):
-        mon = "0"+str(int(mon))
+    if (int(mon) < 10):
+        mon = "0" + str(int(mon))
     arr = (year, mon, days)
     return "-".join("%s" % i for i in arr)
 
@@ -112,31 +112,31 @@ def getyearandmonth(n=0):
     '''
     thisyear = int(year)
     thismon = int(mon)
-    totalmon = thismon+n
-    if(n >= 0):
-        if(totalmon <= 12):
+    totalmon = thismon + n
+    if (n >= 0):
+        if (totalmon <= 12):
             days = str(get_days_of_month(thisyear, totalmon))
             totalmon = addzero(totalmon)
             return (year, totalmon, days)
         else:
-            i = totalmon/12
+            i = totalmon / 12
             j = totalmon % 12
-            if(j == 0):
+            if (j == 0):
                 i -= 1
                 j = 12
             thisyear += i
             days = str(get_days_of_month(thisyear, j))
             j = addzero(j)
-            return (str(thisyear), str(j), days)
+            return str(thisyear), str(j), days
     else:
-        if((totalmon > 0) and (totalmon < 12)):
+        if ((totalmon > 0) and (totalmon < 12)):
             days = str(get_days_of_month(thisyear, totalmon))
             totalmon = addzero(totalmon)
             return (year, totalmon, days)
         else:
-            i = totalmon/12
+            i = totalmon / 12
             j = totalmon % 12
-            if(j == 0):
+            if (j == 0):
                 i -= 1
                 j = 12
             thisyear += i
@@ -151,8 +151,8 @@ def addzero(n):
     return 01-09 
     '''
     nabs = abs(int(n))
-    if(nabs < 10):
-        return "0"+str(nabs)
+    if (nabs < 10):
+        return "0" + str(nabs)
     else:
         return nabs
 
@@ -166,7 +166,7 @@ def get_today_month(n=0):
     '''
     (y, m, d) = getyearandmonth(n)
     arr = (y, m, d)
-    if(int(day) < int(d)):
+    if (int(day) < int(d)):
         arr = (y, m, day)
     return "-".join("%s" % i for i in arr)
 

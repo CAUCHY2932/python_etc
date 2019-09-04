@@ -2,6 +2,29 @@
 import yagmail
 
 
+class MailSender(object):
+    def __init__(self, user: str, password: str, host: str, port: str) -> None:
+        # self.user = user
+        # self.password = password
+        # self.host = host
+        # self.port = port
+        self.yag = yagmail.SMTP(user=user, password=password,
+                                host=host, port=port)
+        self.subject = ''
+        self.attachment = None
+        self.contents = None
+
+    def send(self, obj_users: list, subject: str, attachments: list, contents: str) -> None:
+        """发送邮件
+        :param obj_users: 目标用户可为多个，如果为单个用户，我们可以像这样['hello@qq.com']
+        :param subject: '这是一个邮件的主题'
+        :param attachments: 附件，列表
+        :param contents: 邮件内容
+        :return: None
+        """
+        self.yag.send(obj_users, subject=subject, attachments=attachments, contents=contents)
+
+
 def send_1():
     # EXAMPLE:
     # 这里的密码是授权码
@@ -22,18 +45,6 @@ def send_1():
 
 
 def send2():
-    # # CONFIGS
-    # USER=''
-    # PASSWORD=''
-    # HOST=''
-    # PORT=''
-    # SUBJECT=''
-    # ATTACHMENTS=['','']
-    #
-    #
-    # yag = yagmail.SMTP(user=USER, password=PASSWORD, host=HOST, port=PORT)
-    # yag.send(USER, subject = SUBJECT, attachments=ATTACHMENTS)
-
     # # EXAMPLE:
     # USER='2932045582@qq.com'
     # PASSWORD=''
