@@ -62,6 +62,7 @@ pandas
 #### 数据库
 
 sqlalchemy
+flask-sqlalchemy
 
 #### 分词
 
