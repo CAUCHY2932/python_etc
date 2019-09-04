@@ -7,3 +7,20 @@ def a(row):
     return res.findall(row)
     # return res.split(row)
 print(a('5BC'))
+
+
+def find_all_demo():
+
+    pass
+
+def search_demo():
+
+    pass
+
+def match_demo():
+
+    pass
+
+
+
+
