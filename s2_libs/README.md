@@ -10,6 +10,11 @@
 
 ### 规范集
 
+#### 文件相关操作
+
+pathlib是替代os和os.path的更为高级的库，可以用来查找文件，删除等相关操作
+
+
 #### 时间
 
 datetime是python处理时间日期的库，而time更多的是获取时间戳和睡眠
@@ -74,11 +79,31 @@ flask-sqlalchemy
 
 #### 分词
 
+jieba
+
+
+
 #### 可视化
+
+matplotlib
+
+
 
 #### 异步
 
+ayncio
+
 #### web开发
+
+flask
+
+## 数据分析库
+
+numpy
+
+scipy
+
+pandas
 
 #### spark codes
 

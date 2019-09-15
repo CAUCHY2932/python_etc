@@ -7,9 +7,9 @@ import json
 
 
 def request_url(url):
-    response=requests.get(url)
-    if response.status_code==200:
-        response.encoding=response.apparent_encoding
+    response = requests.get(url)
+    if response.status_code == 200:
+        response.encoding = response.apparent_encoding
         print(response.text)
 
 
@@ -27,20 +27,24 @@ def get_page_source(url):
 
 
 def parse_with_bs4(html_source):
+    if not html_source and not isinstance(html_source, str) and html_source.strip() == '':  # 剪枝操作
+        return []
     # 解析源码
-    html=BeautifulSoup(html_source, 'lxml')
+    html = BeautifulSoup(html_source, 'lxml')
     # 创建css选择器
-    items=html.select('script[type="text/javascript"]')
+    items = html.select('script[type="text/javascript"]')
     for item in items:
         if "https://qr.alipay.com" in item.text:
             print(item)
 
 
 def parse_with_xpath(html_source):
+    if not html_source and not isinstance(html_source, str) and html_source.strip() == '':  # 剪枝操作
+        return []
     # 解析源码
     s = etree.HTML(html_source)
 
-    dictobj=s.xpath('//*[@id="J-barcode-container"]/canvas')
+    dictobj = s.xpath('//*[@id="J-barcode-container"]/canvas')
 
     with open("news.json", "a+", encoding='utf-8') as f:
         f.write(json.dumps(dictobj, ensure_ascii=False) + '\n')
