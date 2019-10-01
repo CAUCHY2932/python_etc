@@ -1,0 +1,16 @@
+http://file.allitebooks.com/20160416/Flask By Example.pdf
+http://file.allitebooks.com/20160104/Learning Flask Framework.rar
+http://file.allitebooks.com/20151216/Flask Blueprints.pdf
+http://file.allitebooks.com/20150731/Instant Flask Web Development.pdf
+http://file.allitebooks.com/20150708/Building Web Applications with Flask.pdf
+http://file.allitebooks.com/20150530/Flask Web Development.pdf
+http://file.allitebooks.com/20150514/Flask Framework Cookbook.pdf
+http://file.allitebooks.com/20190319/Programming Google App Engine with Python.pdf
+http://file.allitebooks.com/20190319/Programming Google App Engine with Python.epub
+http://file.allitebooks.com/20180913/Monetizing Machine Learning.pdf
+http://file.allitebooks.com/20180913/Monetizing Machine Learning.epub
+http://file.allitebooks.com/20170813/Python Requests Essentials.pdf
+http://file.allitebooks.com/20160330/Mastering PyCharm.pdf
+http://file.allitebooks.com/20160320/Building Web Applications with Python and Neo4j.pdf
+http://file.allitebooks.com/20151230/Spark for Python Developers.pdf
+http://file.allitebooks.com/20151216/Essential SQLAlchemy, 2nd Edition.pdf

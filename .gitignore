@@ -113,3 +113,11 @@ venv.bak/
 /dataAna/小象学院/第六讲_codes/lect06_codes/lect06_proj/dataset
 
 /dataAna/datasets
+
+/secure.py
+
+
+/s6_dev/api_single/secure.py
+
+.DS_Store
+

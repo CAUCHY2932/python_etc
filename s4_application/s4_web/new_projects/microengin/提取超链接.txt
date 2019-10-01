@@ -1,0 +1,22 @@
+从excel表格中提取超链接的几种方式 (2017-10-12 23:03:26)转载▼
+标签： 数据清洗 	
+一、利用编辑方式添加的超链接
+（一）VBA
+可参考https://www.ozgrid.com/VBA/HyperlinkAddress.htm，经测试可用
+Function GetAddress(HyperlinkCell As Range)
+             GetAddress = Replace _
+      (HyperlinkCell.Hyperlinks(1).Address, "mailto:", "")
+End Function
+（二）Python直接提取：
+利用xlrd中的hyperlink_map功能
+import xlrd 
+mainData_book = xlrd.open_workbook("IEsummary.xls", formatting_info=True) 
+mainData_sheet = mainData_book.sheet_by_index(0) 
+for row in range(1, 101):  
+     link = mainData_sheet.hyperlink_map.get((row, col))#row和col分别为要提取超链接信息的单元格行和列
+     url=link.url_or_path
+
+二、对于利用公式生成的超链接
+如C1单元格的内容为=HYPERLINK("http://snap.windin.com/ns/bulletin.php?id=88214874&type=1", "宏辉果蔬:关于2017年第三季度使用部分闲置自有资金购买理财产品的公告")，则无法利用上述方法进行提取。可以先提取公式文本，再对文本进行提取
+1、对于Excel2013及以上版本，有函数FORMULATEXT(reference)用于直接提取；
+2、对于低版本的Excel，用宏表函数GET.CELL进行公式文本提取，具体用法可自行百度，或直接参考http://jingyan.baidu.com/article/3052f5a1e9556497f31f86e4.html
