@@ -10,7 +10,8 @@ import time
 
 class GushiPipeline(object):
     def process_item(self, item, spider):
-        t = int(time.time())
-        with open('/Users/young/codes/a_py/python_etc/s4_application/s3_spider/projects/%s.txt' % t, mode='a') as f:
-            f.write(item)
-        return item
+        # t = int(time.time())
+        # with open('/Users/young/codes/a_py/python_etc/s4_application/s3_spider/projects/%s.txt' % t, mode='a') as f:
+        #     f.write(item)
+        # return item
+        pass

@@ -11,13 +11,17 @@ class SpSpider(CrawlSpider):
 
     rules = (
         # Rule(LinkExtractor(allow=r'Items/'), callback='parse_item', follow=True),
-        Rule(LinkExtractor(allow=r'https://so.gushiwen.org/gushi/.*?.aspx', restrict_xpaths=('//div[@class="cont"]')),
+        # Rule(LinkExtractor(allow=r'https://so.gushiwen.org/gushi/.*?.aspx', restrict_xpaths=('//div[@class="cont"]')),
+        #      callback='parse_item', follow=True),
+        Rule(LinkExtractor(allow=r'https://so.gushiwen.org/shiwenv_.*?.aspx', restrict_xpaths=('//div[@class="cont"]')),
              callback='parse_item', follow=True),
     )
 
+
     def parse_item(self, response):
         i = {}
-        i['name'] = response.xpath('//div[@class="typecont"]//span/a/text()').extract()[0]
+        # i['name'] = response.xpath('//div[@class="typecont"]//span/a/text()').extract()[0]
+        i['name'] = response.xpath('//h1/text()').extract()[0]
         # print(i)
         # i['title'] = response.xpath('//input[@id="sid"]/@value').extract()
         # i['content'] = response.xpath('//input[@id="sid"]/@value').extract()
