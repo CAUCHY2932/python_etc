@@ -24,7 +24,7 @@ class SpSpider(CrawlSpider):
         i['name'] = response.xpath('//h1/text()').extract()[0]
         # print(i)
         # i['title'] = response.xpath('//input[@id="sid"]/@value').extract()
-        # i['content'] = response.xpath('//input[@id="sid"]/@value').extract()
+        i['content'] = '\n'.join(response.xpath('//div[@class="sons"][1]//div[@class="contson"]/text()|//div[@class="sons"][1]//div[@class="contson"]/p/text()').extract())
         #i['domain_id'] = response.xpath('//input[@id="sid"]/@value').extract()
         #i['name'] = response.xpath('//div[@id="name"]').extract()
         #i['description'] = response.xpath('//div[@id="description"]').extract()
