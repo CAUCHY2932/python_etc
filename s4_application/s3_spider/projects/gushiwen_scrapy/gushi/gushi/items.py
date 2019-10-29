@@ -13,5 +13,5 @@ class GushiItem(scrapy.Item):
     name = scrapy.Field()
     # title = scrapy.Field()
     # author = scrapy.Field()
-    # content = scrapy.Field()
+    content = scrapy.Field()
     pass
