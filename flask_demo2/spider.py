@@ -4,8 +4,8 @@ import pprint
 
 link = ''
 app_code = 'amazon'
-timestamp = '1564046300257'
-check_word_result = 'SFEZ+jAxpbwfdmH0SscKBw=='
+timestamp = ''
+check_word_result = ''
 page_num = '1'
 apply_time_start = '2019-07-25'
 apply_time_end = '2019-07-25'

@@ -1,10 +1,9 @@
 # -*- coding:utf-8 -*-
 """
-    :author: young
-<<<<<<< HEAD
-    :DATE: 2019/6/26 16:31
+    :DATE: 2019-06-27 10:38
     :copyright: © 2019 young <haochen2932@foxmail.com>
     :license: None, see LICENSE for more details.
+    :author: young
 """
 # https://www.cnblogs.com/yongjieShi/p/9599015.html
 # https://blog.csdn.net/zx8167107/article/details/81083249
@@ -82,14 +81,3 @@ def start(file_name):
 
 if __name__ == '__main__':
     start('/Users/young/Desktop/水晶剑宴会.csv')
-=======
-    :DATE: 2019-06-27 10:38
-    :copyright: © 2019 young <haochen2932@foxmail.com>
-    :license: None, see LICENSE for more details.
-"""
-
-
-
-
-
->>>>>>> ffc29fd809a83a2f24e449e41ac4089adb6dcb9c

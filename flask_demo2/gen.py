@@ -2,8 +2,8 @@ import time
 import hashlib
 import base64
 
-app_code = 'amazon'
-app_key = 'amazon36520190401'
+app_code = ''
+app_key = ''
 
 
 timestamp = str(int(round(time.time() * 1000)))
