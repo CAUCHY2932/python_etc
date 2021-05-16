@@ -89,11 +89,3 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 FEED_EXPORT_ENCODING = 'utf-8'
-
-# database settings
-database_name = 'mydb'
-database_port = '5432'
-table_name = 'poets'
-database_user = 'postgres'
-database_url = '127.0.0.1'
-database_password = '123456'
